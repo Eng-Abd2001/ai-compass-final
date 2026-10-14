@@ -1,0 +1,18 @@
+# مركز الأمان (العناوين؛ المواضيع في content/safety.txt)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+sT_en: AI Safety Center
+sT_ar: مركز أمان الذكاء الاصطناعي
+sL_en: Practical guidance, not legal advice. Policies change, so every source below stays marked until verified.
+sL_ar: إرشادات عملية وليست استشارة قانونية. السياسات تتغيّر، لذا يبقى كل مصدر موسومًا حتى يُتحقق منه.
+srcT_en: Official policies
+srcT_ar: السياسات الرسمية
+risk2_en: Risk level
+risk2_ar: مستوى الخطورة
+app_en: Applies to
+app_ar: ينطبق على
+rl.0_en: Medium
+rl.0_ar: متوسط
+rl.1_en: High
+rl.1_ar: مرتفع

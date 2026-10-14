@@ -1,0 +1,26 @@
+# أداة: Murf AI
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 280
+name: Murf AI
+category: audio
+website: https://murf.ai/
+pricing_page: https://murf.ai/pricing
+platforms: web
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI voiceovers for videos and presentations.
+short_ar: تعليق صوتي بالذكاء الاصطناعي للفيديو والعروض.
+long_en: Murf is an AI voice generator with 120+ realistic text-to-speech voices in 20 languages for voiceovers, according to its own site.
+long_ar: Murf مولّد أصوات بالذكاء الاصطناعي يضم أكثر من 120 صوتًا واقعيًا لتحويل النص إلى كلام بـ20 لغة للتعليق الصوتي، بحسب موقعه.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://murf.ai/pricing
+paid_from: $29/mo
+plan: Free | $0 | 10 mins voice generation (no downloads)
+plan: Creator | $29/mo | Unlimited downloads, premium voices

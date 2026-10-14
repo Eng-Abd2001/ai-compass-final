@@ -1,0 +1,55 @@
+# التصنيفات التي تظهر في فلتر الأدوات.
+# لإضافة تصنيف: انسخ كتلة (id و en و ar) وضعها بعد سطر --- . ثم استخدم الـ id في ملف الأداة (category: ...).
+# لا تحذف تصنيفًا ما دامت أداة تستخدمه (سيخبرك الفحص).
+
+id: assistant
+en: Assistant
+ar: مساعد
+---
+id: research
+en: Research
+ar: بحث
+---
+id: study
+en: Study
+ar: دراسة
+---
+id: design
+en: Design
+ar: تصميم
+---
+id: coding
+en: Coding
+ar: برمجة
+---
+id: automation
+en: Automation
+ar: أتمتة
+---
+id: local-models
+en: Local models
+ar: نماذج محلية
+---
+id: open-models
+en: Open models
+ar: نماذج مفتوحة
+---
+id: video
+en: Video
+ar: فيديو
+---
+id: documents
+en: Documents
+ar: مستندات
+---
+id: image
+en: Image
+ar: صور
+---
+id: audio
+en: Audio
+ar: صوت
+---
+id: productivity
+en: Productivity
+ar: إنتاجية

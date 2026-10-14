@@ -1,0 +1,28 @@
+# أداة: Suno AI
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 260
+name: Suno AI
+category: audio
+website: https://suno.com/
+pricing_page: https://suno.com/pricing
+platforms: web, ios, android
+goals: create
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI song generation from text prompts.
+short_ar: توليد أغانٍ بالذكاء الاصطناعي من أوامر نصية.
+long_en: Suno creates full songs with vocals from a text description, with editing tools, stem separation and a Studio. The free plan gives 50 credits a day without commercial rights; commercial rights start with the Pro plan.
+long_ar: تنشئ Suno أغاني كاملة بأصوات من وصف نصي، مع أدوات تحرير وفصل المسارات واستوديو. تمنح الخطة المجانية 50 رصيدًا يوميًا دون حقوق تجارية، وتبدأ حقوق الاستخدام التجاري من خطة Pro.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://suno.com/pricing
+paid_from: $8/mo (billed yearly)
+plan: Free | $0 | 50 credits/day; no commercial rights; no monthly song downloads
+plan: Pro | $8/mo | billed yearly (saves $24/year); 2,500 credits/month; 20 song downloads/month; commercial rights
+plan: Premier | $24/mo | billed yearly (saves $72/year); 10,000 credits/month; 60 downloads/month; Suno Studio; commercial rights
+plan: Billing |  | The page offers monthly and annual billing (annual saves 20%); taxes added at checkout

@@ -1,0 +1,29 @@
+# أداة: HeyGen
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 120
+name: HeyGen
+category: video
+website: https://www.heygen.com/
+pricing_page: https://www.heygen.com/pricing
+platforms: web
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI avatar videos made from text.
+short_ar: فيديوهات بشخصيات رقمية تُنشأ من نص.
+long_en: HeyGen creates videos with AI avatars and voices from a script, with translation into many languages. The free plan allows 3 videos a month of up to 1 minute.
+long_ar: تنشئ HeyGen فيديوهات بشخصيات وأصوات رقمية انطلاقًا من نص، مع الترجمة إلى لغات كثيرة. تتيح الخطة المجانية 3 فيديوهات شهريًا بمدة حتى دقيقة.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://www.heygen.com/pricing
+paid_from: $29/mo
+plan: Free | $0 | 3 videos/month, up to 1 min
+plan: Creator | $29/mo | $24/mo billed yearly
+plan: Pro | $49/mo | tiers up to $4,300/mo
+plan: Business | $149/mo | + $20 per extra seat
+plan: Enterprise | Contact sales

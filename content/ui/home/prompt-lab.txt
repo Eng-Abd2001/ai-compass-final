@@ -1,0 +1,112 @@
+# مختبر الأوامر
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+pT_en: Prompt Lab
+pT_ar: مختبر الأوامر
+pL_en: Describe your goal. Prompt Architect turns it into a structured prompt for any assistant. It works offline.
+pL_ar: صِف هدفك ويحوّله Prompt Architect إلى أمر منظّم يصلح لأي مساعد. ويعمل بدون إنترنت.
+phd.0_en: Role
+phd.0_ar: الدور
+phd.1_en: Objective
+phd.1_ar: الهدف
+phd.2_en: Context
+phd.2_ar: السياق
+phd.3_en: Constraints
+phd.3_ar: القيود
+phd.4_en: Output format
+phd.4_ar: صيغة المخرجات
+phd.5_en: Success criteria
+phd.5_ar: معايير النجاح
+pf.list_en: Bulleted list
+pf.list_ar: قائمة نقطية
+pf.table_en: Table
+pf.table_ar: جدول
+pf.steps_en: Numbered steps
+pf.steps_ar: خطوات مرقّمة
+pf.short_en: Short paragraph
+pf.short_ar: فقرة قصيرة
+pf.json_en: JSON
+pf.json_ar: JSON
+pTn.0_en: Summarize
+pTn.0_ar: تلخيص
+pTn.1_en: Study plan
+pTn.1_ar: خطة دراسة
+pTn.2_en: Email reply
+pTn.2_ar: رد على بريد
+pOut_en: Your prompt
+pOut_ar: أمرك
+pCopy_en: Copy
+pCopy_ar: نسخ
+pCopied_en: Copied
+pCopied_ar: تم النسخ
+pCopyFail_en: Select the text and copy it
+pCopyFail_ar: حدّد النص وانسخه
+pSave_en: Save version
+pSave_ar: حفظ نسخة
+pEmpty_en: Write your objective to see the prompt.
+pEmpty_ar: اكتب هدفك لتظهر صيغة الأمر.
+pChk_en: Quality checks
+pChk_ar: فحوص الجودة
+pChkN_en: Simple checks, not a guarantee of quality.
+pChkN_ar: فحوص بسيطة وليست ضمانًا للجودة.
+pTips.0_en: The objective is a full sentence
+pTips.0_ar: الهدف جملة كاملة
+pTips.1_en: A role is set
+pTips.1_ar: الدور محدد
+pTips.2_en: Context is given
+pTips.2_ar: السياق مذكور
+pTips.3_en: Constraints are given
+pTips.3_ar: القيود مذكورة
+pTips.4_en: Success criteria are given
+pTips.4_ar: معايير النجاح مذكورة
+pVers_en: Versions
+pVers_ar: النسخ
+pNoV_en: No saved versions yet.
+pNoV_ar: لا توجد نسخ محفوظة بعد.
+pLoad_en: Load
+pLoad_ar: تحميل
+pCmp_en: Compare
+pCmp_ar: مقارنة
+pDel_en: Delete
+pDel_ar: حذف
+pDiff_en: Changed fields
+pDiff_ar: الحقول المتغيرة
+pDiffNone_en: No differences from the current prompt.
+pDiffNone_ar: لا فروق عن الأمر الحالي.
+tpl.0.role_en: You are a clear, careful editor.
+tpl.0.role_ar: أنت محرّر واضح ودقيق.
+tpl.0.goal_en: Summarize the text below for a busy reader.
+tpl.0.goal_ar: لخّص النص أدناه لقارئ مشغول.
+tpl.0.ctx_en: 
+tpl.0.ctx_ar: 
+tpl.0.con_en: Do not add facts that are not in the text.
+tpl.0.con_ar: لا تُضف معلومات غير موجودة في النص.
+tpl.0.fmt_en: list
+tpl.0.fmt_ar: list
+tpl.0.crit_en: Covers every main point in under 120 words.
+tpl.0.crit_ar: يغطي كل النقاط الرئيسية في أقل من 120 كلمة.
+tpl.1.role_en: You are an experienced tutor.
+tpl.1.role_ar: أنت مدرّس ذو خبرة.
+tpl.1.goal_en: Build a 4-week study plan for the topic I name.
+tpl.1.goal_ar: ابنِ خطة دراسة لمدة 4 أسابيع للموضوع الذي أذكره.
+tpl.1.ctx_en: I am a beginner with about one hour per day.
+tpl.1.ctx_ar: أنا مبتدئ ولدي نحو ساعة يوميًا.
+tpl.1.con_en: No more than 5 hours of study per week.
+tpl.1.con_ar: لا تزيد الدراسة على 5 ساعات في الأسبوع.
+tpl.1.fmt_en: table
+tpl.1.fmt_ar: table
+tpl.1.crit_en: Each week has one clear outcome I can check.
+tpl.1.crit_ar: لكل أسبوع نتيجة واضحة أستطيع التحقق منها.
+tpl.2.role_en: You are a professional assistant.
+tpl.2.role_ar: أنت مساعد محترف.
+tpl.2.goal_en: Draft a polite reply to the email I paste below.
+tpl.2.goal_ar: اكتب ردًا مهذبًا على البريد الذي ألصقه أدناه.
+tpl.2.ctx_en: 
+tpl.2.ctx_ar: 
+tpl.2.con_en: Under 120 words. Do not make promises I have not made.
+tpl.2.con_ar: أقل من 120 كلمة. لا تقدّم وعودًا لم أقدّمها.
+tpl.2.fmt_en: short
+tpl.2.fmt_ar: short
+tpl.2.crit_en: The tone is polite and the answer is clear.
+tpl.2.crit_ar: النبرة مهذبة والإجابة واضحة.

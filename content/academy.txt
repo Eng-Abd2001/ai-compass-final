@@ -1,0 +1,58 @@
+# الأكاديمية. كل كتلة = مستوى، بالترتيب (المستوى 0 ثم 1 ...). يمكنك إضافة مستويات أو حذفها.
+# hours: ساعات تقديرية مثل 4–8
+
+title_en: AI Basics
+title_ar: أساسيات الذكاء الاصطناعي
+topics_en: What AI is and isn't, hallucinations, privacy basics.
+topics_ar: ما هو AI وما لا يستطيعه، الهلوسة، أساسيات الخصوصية.
+project_en: Ask one assistant about a topic you know well, then fact-check the answer.
+project_ar: اسأل مساعدًا عن موضوع تعرفه جيدًا ثم تحقّق من إجابته.
+hours: 2–4
+---
+title_en: AI User
+title_ar: مستخدم AI
+topics_en: Prompt structure, giving context, iterating, choosing a tool.
+topics_ar: هيكل الطلب، إعطاء السياق، التكرار، اختيار الأداة.
+project_en: Solve one weekly task with AI and compare the time it took.
+project_ar: حلّ مهمة أسبوعية واحدة بالـAI وقارن الوقت المستغرق.
+hours: 4–8
+---
+title_en: AI Power User
+title_ar: مستخدم متمكّن
+topics_en: Reusable prompts, document analysis, research with sources, tool stacks.
+topics_ar: طلبات قابلة لإعادة الاستخدام، تحليل المستندات، بحث بمصادر، مجموعات أدوات.
+project_en: Build a library of five prompts you have tested.
+project_ar: ابنِ مكتبة من خمسة طلبات جرّبتها.
+hours: 8–15
+---
+title_en: AI Builder
+title_ar: باني AI
+topics_en: APIs, structured output, small web apps built with AI help.
+topics_ar: واجهات API، المخرجات المنظّمة، تطبيقات ويب صغيرة بمساعدة AI.
+project_en: A small app that calls an AI model.
+project_ar: تطبيق صغير يستدعي نموذج AI.
+hours: 15–25
+---
+title_en: AI Automation
+title_ar: أتمتة AI
+topics_en: Triggers, conditions, actions, error handling, no-code platforms.
+topics_ar: المحفّزات، الشروط، الإجراءات، معالجة الأخطاء، منصات بدون برمجة.
+project_en: One workflow that runs without you.
+project_ar: سير عمل واحد يعمل بدونك.
+hours: 15–25
+---
+title_en: AI Agents
+title_ar: وكلاء AI
+topics_en: Tool use, planning loops, permissions, evaluation, safety limits.
+topics_ar: استخدام الأدوات، حلقات التخطيط، الصلاحيات، التقييم، حدود الأمان.
+project_en: An agent with one tool and a clear stop rule.
+project_ar: وكيل بأداة واحدة وقاعدة إيقاف واضحة.
+hours: 20–40
+---
+title_en: AI Engineering
+title_ar: هندسة AI
+topics_en: Evaluation sets, retrieval, monitoring, cost control, security.
+topics_ar: مجموعات التقييم، الاسترجاع، المراقبة، ضبط التكلفة، الأمان.
+project_en: An AI feature with a written test set.
+project_ar: ميزة AI مع مجموعة اختبار مكتوبة.
+hours: 40+

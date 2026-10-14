@@ -1,0 +1,48 @@
+# هل أحتاج الذكاء الاصطناعي؟
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+dT_en: Do I need AI?
+dT_ar: هل أحتاج الذكاء الاصطناعي؟
+dL_en: Not every problem needs AI. Pick what describes your task.
+dL_ar: ليست كل مشكلة تحتاج AI. اختر ما يصف مهمتك.
+dopts.0.0_en: Same steps every time, with structured data
+dopts.0.0_ar: خطوات ثابتة في كل مرة وبيانات منظّمة
+dopts.0.1_en: auto
+dopts.0.1_ar: auto
+dopts.1.0_en: Messy text or images that need understanding
+dopts.1.0_ar: نصوص أو صور غير منظّمة تحتاج فهمًا
+dopts.1.1_en: ai
+dopts.1.1_ar: ai
+dopts.2.0_en: Mistakes are costly: legal, medical, money
+dopts.2.0_ar: الخطأ مكلف: قانوني أو طبي أو مالي
+dopts.2.1_en: human
+dopts.2.1_ar: human
+dopts.3.0_en: Messy input first, then fixed steps
+dopts.3.0_ar: مدخلات غير منظّمة ثم خطوات ثابتة
+dopts.3.1_en: combo
+dopts.3.1_ar: combo
+dopts.4.0_en: It needs empathy or personal accountability
+dopts.4.0_ar: تحتاج تعاطفًا أو مسؤولية شخصية
+dopts.4.1_en: human2
+dopts.4.1_ar: human2
+dres.auto.0_en: Automation or traditional software
+dres.auto.0_ar: أتمتة أو برمجيات تقليدية
+dres.auto.1_en: Fixed rules on structured data are cheaper and more reliable without AI. Try a spreadsheet, script or no-code automation.
+dres.auto.1_ar: القواعد الثابتة على بيانات منظّمة أرخص وأوثق بدون AI. جرّب جدول بيانات أو سكربتًا أو أتمتة بدون برمجة.
+dres.ai.0_en: AI
+dres.ai.0_ar: الذكاء الاصطناعي
+dres.ai.1_en: Understanding or drafting from unstructured input is where AI helps most. Keep a human review step.
+dres.ai.1_ar: الفهم أو الصياغة من مدخلات غير منظّمة هو أفضل استخدام للذكاء الاصطناعي. أبقِ خطوة مراجعة بشرية.
+dres.human.0_en: Human work, AI as assistant
+dres.human.0_ar: عمل بشري والذكاء الاصطناعي مساعد
+dres.human.1_en: When errors are costly, a qualified person decides. Use AI for drafts and checks only.
+dres.human.1_ar: حين يكلّف الخطأ كثيرًا يقرّر شخص مؤهل. استخدم AI للمسودات والمراجعة فقط.
+dres.combo.0_en: A combination
+dres.combo.0_ar: مزيج
+dres.combo.1_en: Use AI to read and classify the messy input, then hand off to a fixed automation for the repeatable steps.
+dres.combo.1_ar: استخدم AI لقراءة المدخلات غير المنظّمة وتصنيفها، ثم سلّمها لأتمتة ثابتة للخطوات المتكررة.
+dres.human2.0_en: Human work
+dres.human2.0_ar: عمل بشري
+dres.human2.1_en: Accountability and care stay with people. AI can prepare notes, not replace the relationship.
+dres.human2.1_ar: المسؤولية والرعاية تبقى للناس. يستطيع AI تحضير الملاحظات لا استبدال العلاقة.

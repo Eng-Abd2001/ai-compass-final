@@ -1,0 +1,30 @@
+# أداة: Photoroom
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 230
+name: Photoroom
+category: image
+website: https://www.photoroom.com/
+pricing_page: https://www.photoroom.com/pricing
+platforms: web, ios, android, ipad
+goals: create, money
+level: 1
+free_plan: unknown
+open_source: no
+short_en: Product photo editing and background removal.
+short_ar: تحرير صور المنتجات وإزالة الخلفية.
+long_en: Photoroom edits product photos with AI: background removal, AI backgrounds, shadows, fashion models and video, with batch processing and a Shopify integration. Plans include monthly AI credits and exports.
+long_ar: تحرّر Photoroom صور المنتجات بالذكاء الاصطناعي: إزالة الخلفية وخلفيات وظلال ونماذج أزياء وفيديو، مع المعالجة الجماعية وتكامل Shopify. تتضمن الخطط أرصدة ذكاء اصطناعي وتصديرات شهرية.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://www.photoroom.com/pricing
+paid_from: $7.50/mo (billed yearly)
+plan: Pro | $7.50/mo | billed yearly; 8,000 AI credits and 1,000 exports/month
+plan: Max | $20.99/mo | billed yearly; 25,000 credits, 3,000 exports; video generator; Shopify integration
+plan: Ultra | $82.50/mo | billed yearly; 75,000 credits, 10,000 exports; 4K output
+plan: Enterprise | Custom | Contact sales
+plan: Free |  | 'Start for free' is offered; limits not listed on the page
+plan: Billing |  | Prices include VAT/GST; the page also offers monthly billing

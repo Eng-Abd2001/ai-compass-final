@@ -1,0 +1,32 @@
+# أداة: ElevenLabs
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 250
+name: ElevenLabs
+category: audio
+website: https://elevenlabs.io/
+pricing_page: https://elevenlabs.io/pricing
+platforms: web, ios, android
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI voice generation and text-to-speech.
+short_ar: توليد الصوت وتحويل النص إلى كلام بالذكاء الاصطناعي.
+long_en: ElevenLabs generates realistic AI speech, voice clones, sound effects and music, with a Studio editor and dubbing tools. The free plan gives 10k credits a month; a commercial licence starts with the Starter plan.
+long_ar: تولّد ElevenLabs كلامًا واقعيًا ونسخًا صوتية ومؤثرات وموسيقى بالذكاء الاصطناعي، مع محرّر Studio وأدوات للدبلجة. تمنح الخطة المجانية 10 آلاف رصيد شهريًا، وتبدأ الرخصة التجارية من خطة Starter.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://elevenlabs.io/pricing
+paid_from: $6/mo
+plan: Free | $0 | 10k credits/month; no commercial licence
+plan: Starter | $6/mo | 30k credits; commercial licence; instant voice cloning; first month $1 (promo until Oct 18)
+plan: Creator | $22/mo | 121k credits; professional voice cloning; first month $11 (promo)
+plan: Pro | $99/mo | 600k credits; 44.1kHz PCM audio via API
+plan: Scale | $299/mo | 1.8M credits; 3 seats
+plan: Business | $990/mo | 6M credits; 10 seats
+plan: Enterprise | Custom | Contact sales
+plan: Billing |  | Monthly view; prices exclude taxes; yearly billing also offered

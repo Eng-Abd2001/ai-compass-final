@@ -1,0 +1,10 @@
+# الواجهة الرئيسية (العنوان الكبير)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+h1_en: Navigate the AI Era.
+h1_ar: أبحر في عصر الذكاء الاصطناعي.
+sub_en: Understand AI. Choose better tools. Build faster. Learn smarter. Prepare for what comes next.
+sub_ar: افهم الذكاء الاصطناعي. اختر أدوات أفضل. ابنِ أسرع. تعلّم بذكاء. واستعد لما سيأتي.
+cta_en: Build my AI path
+cta_ar: ابنِ مساري

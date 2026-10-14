@@ -1,0 +1,29 @@
+# أداة: Replit
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 300
+name: Replit
+category: coding
+website: https://replit.com/
+pricing_page: https://replit.com/pricing
+platforms: web, ios, android
+goals: build, learn
+level: 2
+free_plan: yes
+open_source: no
+short_en: Build and run apps in the browser with AI help.
+short_ar: ابنِ التطبيقات وشغّلها في المتصفح بمساعدة AI.
+long_en: Replit is an AI platform where you describe an app, website or tool in plain language and an agent builds, runs and deploys it in the browser, with built-in databases and integrations. You can start free; paid plans add AI credits, more projects, parallel agents and collaborators.
+long_ar: Replit منصة ذكاء اصطناعي تصف فيها تطبيقًا أو موقعًا أو أداة بلغة عادية فيبنيها وكيل ويشغّلها وينشرها داخل المتصفح، مع قواعد بيانات وتكاملات مدمجة. تستطيع البدء مجانًا، وتضيف الخطط المدفوعة أرصدة ذكاء اصطناعي ومشاريع أكثر ووكلاء متوازين ومتعاونين.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://replit.com/pricing
+paid_from: $20/mo ($18/mo billed annually)
+plan: Free | $0 | The page says 'Start free'; the free limits are not itemised
+plan: Core | $20/mo | $18/mo billed annually; $20 towards more powerful models; unlimited workspaces; plan mode; up to 30 hours of chat and 60 projects in Free Mode
+plan: Pro | $100/mo | $90/mo billed annually; $100 towards the most powerful models; 10 parallel agents; up to 15 collaborators; premium support
+plan: Enterprise | Custom | SSO/SAML, advanced privacy controls, single-tenant environments
+plan: Billing |  | Monthly or yearly (up to 10% off); prices are subject to tax

@@ -1,0 +1,26 @@
+# أداة: Gemini
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 30
+name: Gemini
+category: assistant
+website: https://gemini.google.com/
+pricing_page:
+platforms: web, ios, android
+goals: learn, money, create, study, build
+level: 1
+free_plan: yes
+open_source: no
+short_en: Google's assistant, connected to Google apps.
+short_ar: مساعد Google المرتبط بتطبيقات Google.
+long_en: Gemini is Google's AI assistant, available on the web and as a mobile app and connected to Google apps. Google sells paid Google AI plans that raise usage limits and unlock more advanced models.
+long_ar: Gemini مساعد الذكاء الاصطناعي من Google، متاح على الويب وكتطبيق جوال ومرتبط بتطبيقات Google. وتبيع Google خطط Google AI مدفوعة ترفع حدود الاستخدام وتتيح نماذج أكثر تقدمًا.
+limit_en: Features vary by region and plan.
+limit_ar: تختلف الميزات حسب البلد والخطة.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://gemini.google.com/advanced
+paid_from: $19.99/mo
+plan: Free | $0 | Basic Gemini model
+plan: Advanced | $19.99/mo | Gemini 1.5 Pro, 2TB Cloud Storage

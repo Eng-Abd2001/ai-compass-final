@@ -1,0 +1,32 @@
+# أداة: Claude
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 20
+name: Claude
+category: assistant
+website: https://claude.ai/
+pricing_page: https://claude.com/pricing
+platforms: web, ios, android, desktop
+goals: learn, money, build, create, study, automate
+level: 1
+free_plan: yes
+open_source: no
+short_en: Strong with long documents, writing and coding help.
+short_ar: قوي مع المستندات الطويلة والكتابة ومساعدة البرمجة.
+long_en: Claude is Anthropic's AI assistant for writing, analysis, research, coding and working with documents, on web, desktop, iOS and Android. The free plan covers everyday use; Pro and Max add more usage, Claude Code, research and the most capable models, and Team and Enterprise add admin and security controls.
+long_ar: Claude مساعد الذكاء الاصطناعي من Anthropic للكتابة والتحليل والبحث والبرمجة والعمل مع المستندات، ويعمل على الويب وسطح المكتب وiOS وAndroid. تكفي الخطة المجانية للاستخدام اليومي، وتضيف Pro وMax استخدامًا أكبر وClaude Code والبحث وأقوى النماذج، وتضيف Team وEnterprise ضوابط الإدارة والأمان.
+limit_en: Usage limits apply on free use.
+limit_ar: تنطبق حدود استخدام على الخطة المجانية.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://claude.com/pricing
+paid_from: $17/mo with annual subscription ($20/mo billed monthly)
+plan: Free | $0 | Chat on web, desktop and mobile; web search; files and code; Artifacts; usage limits reset every 5 hours
+plan: Pro | $17/mo | $200 billed up front for the year, or $20/mo billed monthly; Claude Code, research, projects, more usage
+plan: Max 5x | $100/mo | 5x Pro usage; priority access at busy times; $100/mo in API credits
+plan: Max 20x | $200/mo | 20x Pro usage; priority access; $200/mo in API credits
+plan: Team standard seat | $20/seat/mo | billed yearly ($25 monthly); teams of 2 to 150
+plan: Team premium seat | $100/seat/mo | billed yearly ($125 monthly); 5x the usage of a standard seat
+plan: Enterprise | $20/seat/mo + usage | billed yearly; usage at API rates; SSO, SCIM, audit logs
+plan: Billing |  | Prices exclude tax; usage limits apply and plans can change

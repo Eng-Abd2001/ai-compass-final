@@ -1,0 +1,23 @@
+# صفحة: Affiliate Disclosure
+# عدّل النصوص بعد النقطتين. كل text_en يقابله text_ar تحته. لإضافة فقرة أضف زوج text_en/text_ar، ولحذفها احذف الزوج.
+
+title_en: Affiliate Disclosure
+title_ar: إفصاح روابط الإحالة
+description_en: How affiliate and sponsored links are handled.
+description_ar: كيف نتعامل مع روابط الإحالة والمحتوى المدعوم.
+order: 50
+show_email: no
+
+---
+heading_en: Transparency and support
+heading_ar: الشفافية ودعم المنصة
+text_en: To keep AI Compass free and regularly updated, the site may include designated advertising slots or affiliate links to some tools.
+text_ar: للحفاظ على مجانية AI Compass وتحديثه باستمرار، قد يتضمن الموقع مساحات إعلانية مخصصة أو روابط إحالة لبعض الأدوات.
+
+---
+heading_en: How it works
+heading_ar: كيف يعمل ذلك
+text_en: Any sponsored placement or affiliate link is clearly labeled where it appears. We may earn a commission if you subscribe through an affiliate link, at no extra cost to you.
+text_ar: يُوسم أي إعلان أو رابط إحالة بوضوح في مكان ظهوره. قد نحصل على عمولة إذا اشتركت عبر رابط إحالة، دون أي تكلفة إضافية عليك.
+text_en: Commissions and advertising never change tool rankings, recommendations or fit scores. Those are calculated strictly from the visible rules on each tool page.
+text_ar: العمولات والإعلانات لا تغيّر أبدًا ترتيب الأدوات أو التوصيات أو درجات الملاءمة، فهذه تُحتسب حصريًا من القواعد الظاهرة في صفحة كل أداة.

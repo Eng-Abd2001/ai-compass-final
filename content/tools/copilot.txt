@@ -1,0 +1,31 @@
+# أداة: GitHub Copilot
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 70
+name: GitHub Copilot
+category: coding
+website: https://github.com/features/copilot
+pricing_page: https://github.com/features/copilot/plans
+platforms: web, desktop, ios, android, ext_editor
+goals: build
+level: 2
+free_plan: yes
+open_source: no
+short_en: Code completion and chat inside your editor.
+short_ar: إكمال الشيفرة ومحادثة داخل المحرّر.
+long_en: GitHub Copilot is GitHub's AI coding assistant: code completions and chat in editors such as VS Code, Visual Studio and JetBrains, agents that work on issues and pull requests, a CLI, a desktop app and GitHub Mobile. Plans run from a free tier with 2,000 completions a month up to Pro, Pro+, Max, Business and Enterprise; chat and agent use draws on monthly GitHub AI Credits.
+long_ar: GitHub Copilot مساعد البرمجة بالذكاء الاصطناعي من GitHub: إكمال الشيفرة والمحادثة داخل محررات مثل VS Code وVisual Studio وJetBrains، ووكلاء يعملون على المشكلات وطلبات الدمج، وواجهة أوامر وتطبيق سطح مكتب وGitHub Mobile. تبدأ الخطط من مجانية بـ 2000 إكمال شهريًا وتصل إلى Pro وPro+ وMax وBusiness وEnterprise، ويستهلك استخدام المحادثة والوكلاء أرصدة GitHub AI الشهرية.
+limit_en: Needs a computer and coding basics.
+limit_ar: يحتاج حاسوبًا وأساسيات برمجة.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://github.com/features/copilot
+paid_from: $10/user/mo (Pro)
+plan: Free | $0 | 2,000 completions per month; limited monthly AI credits; Copilot CLI; no credit card
+plan: Pro | $10/user/mo | Unlimited completions; cloud agent and code review; model selection; $15 monthly credits
+plan: Pro+ | $39/user/mo | Premium models including Opus; audit logs; $70 monthly credits
+plan: Max | $100/user/mo | Priority access to new models; $200 monthly credits
+plan: Business | $19/user/mo | Pooled credits; access, budget and governance controls; IP indemnity; 1,900 credits per user
+plan: Enterprise | $39/user/mo | Everything in Business; priority access; 2,000 more credits per user
+plan: Billing |  | Chat and agents use GitHub AI Credits (1 credit = $0.01); completions and next edit suggestions are unlimited on paid plans

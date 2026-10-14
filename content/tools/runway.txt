@@ -1,0 +1,28 @@
+# أداة: RunwayML
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 110
+name: RunwayML
+category: video
+website: https://runway.com/
+pricing_page: https://runway.com/pricing
+platforms: web, ios, android
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI video generation and editing tools.
+short_ar: أدوات توليد الفيديو وتحريره بالذكاء الاصطناعي.
+long_en: Runway is a creative platform for generating and editing AI video, images and audio. Plans are credit-based, and the free plan gives a one-time 125 credits to try it.
+long_ar: Runway منصة إبداعية لتوليد الفيديو والصور والصوت وتحريرها بالذكاء الاصطناعي. الخطط قائمة على الأرصدة (credits)، وتمنحك الخطة المجانية 125 رصيدًا لمرة واحدة للتجربة.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://runway.com/pricing
+paid_from: $15/mo ($12/mo billed yearly)
+plan: Free | $0 | 125 credits, one time
+plan: Standard | $15/mo | $12/mo billed yearly
+plan: Pro | $35/mo | $28/mo billed yearly
+plan: Max | $95/mo | $76/mo billed yearly

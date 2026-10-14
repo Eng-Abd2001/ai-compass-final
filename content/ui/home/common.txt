@@ -1,0 +1,62 @@
+# الأقسام المشتركة: عناوين القوائم والشريط السفلي والتذييل وكلمات عامة
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+n1_en: Navigator
+n1_ar: المُوجِّه
+n2_en: Tools
+n2_ar: الأدوات
+n3_en: Reality check
+n3_ar: فحص الواقع
+n4_en: Do I need AI?
+n4_ar: هل أحتاج AI؟
+n5_en: Compare
+n5_ar: قارن
+n6_en: Learn
+n6_ar: تعلّم
+n7_en: Money
+n7_ar: المال
+n8_en: Future
+n8_ar: المستقبل
+n9_en: Safety
+n9_ar: الأمان
+b1_en: Home
+b1_ar: الرئيسية
+b2_en: Path
+b2_ar: مساري
+b3_en: Tools
+b3_ar: الأدوات
+b4_en: Decide
+b4_ar: قرّر
+b5_en: Learn
+b5_ar: تعلّم
+menu_en: Menu
+menu_ar: القائمة
+up_en: Back to top
+up_ar: أعلى الصفحة
+foot_en: AI Compass. Tool details come from vendor pages and are marked Needs verification until checked against an official source.
+foot_ar: AI Compass. تفاصيل الأدوات من صفحات الشركات، وتُوسم «تحتاج تحققًا» حتى تُراجع مع مصدر رسمي.
+foot2_en: Advertising, when enabled, is always labeled and never placed above core content.
+foot2_ar: الإعلانات، إن فُعّلت، تُوسم دائمًا ولا توضع فوق المحتوى الأساسي.
+yes_en: Yes
+yes_ar: نعم
+no_en: No
+no_ar: لا
+unv_en: Needs verification
+unv_ar: تحتاج تحققًا
+ver_en: Verified
+ver_ar: موثّق
+more_en: Show more
+more_ar: عرض المزيد
+dClose_en: Close
+dClose_ar: إغلاق
+docTitle_en: AI Compass — Navigate the AI Era
+docTitle_ar: AI Compass — أبحر في عصر الذكاء الاصطناعي
+ariaLang_en: Language
+ariaLang_ar: اللغة
+ariaMain_en: Main
+ariaMain_ar: الرئيسية
+ariaTools_en: AI tools
+ariaTools_ar: أدوات الذكاء الاصطناعي
+langBtn_en: العربية
+langBtn_ar: English

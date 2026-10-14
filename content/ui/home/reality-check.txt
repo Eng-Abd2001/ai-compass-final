@@ -1,0 +1,40 @@
+# فحص الواقع
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+rcT_en: AI Reality Check
+rcT_ar: فحص واقع الذكاء الاصطناعي
+rcL_en: Claims about AI, labeled by how much evidence stands behind them.
+rcL_ar: ادعاءات عن الذكاء الاصطناعي، موسومة بحسب قوة الدليل خلفها.
+rc.0.0_en: Claim
+rc.0.0_ar: ادعاء
+rc.0.1_en: AI will replace most jobs by 2030.
+rc.0.1_ar: الذكاء الاصطناعي سيحل محل معظم الوظائف بحلول 2030.
+rc.0.2_en: No reliable evidence supports a single date. Effects differ by task and role.
+rc.0.2_ar: لا دليل موثوقًا على تاريخ واحد. يختلف الأثر بحسب المهمة والدور.
+rc.0.3_en: Uncertain
+rc.0.3_ar: غير مؤكد
+rc.1.0_en: Claim
+rc.1.0_ar: ادعاء
+rc.1.1_en: Make passive income with AI in days.
+rc.1.1_ar: اربح دخلًا سلبيًا بالذكاء الاصطناعي خلال أيام.
+rc.1.2_en: No verified earnings data. Treat guarantees as a warning sign.
+rc.1.2_ar: لا بيانات أرباح موثّقة. اعتبر الضمانات علامة تحذير.
+rc.1.3_en: Unverified
+rc.1.3_ar: غير موثّق
+rc.2.0_en: Fact
+rc.2.0_ar: حقيقة
+rc.2.1_en: Free tiers have usage limits and can change.
+rc.2.1_ar: للخطط المجانية حدود استخدام وقد تتغيّر.
+rc.2.2_en: Vendors set and change limits. Check official pricing pages.
+rc.2.2_ar: الشركات تحدد الحدود وتغيّرها. راجع صفحات الأسعار الرسمية.
+rc.2.3_en: Fact
+rc.2.3_ar: حقيقة
+rc.3.0_en: Evidence
+rc.3.0_ar: دليل
+rc.3.1_en: AI can speed up drafting and summarizing.
+rc.3.1_ar: يسرّع الذكاء الاصطناعي الصياغة والتلخيص.
+rc.3.2_en: Commonly reported, but accuracy varies. Review the output.
+rc.3.2_ar: يُذكر ذلك عادةً، لكن الدقة تتفاوت. راجع المخرجات.
+rc.3.3_en: Evidence
+rc.3.3_ar: دليل

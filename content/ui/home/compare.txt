@@ -1,0 +1,22 @@
+# مقارن الأدوات
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+cmpT_en: Tool Comparator
+cmpT_ar: مقارن الأدوات
+cmpL_en: Pick 2–5 tools. Best for you uses your Navigator answers.
+cmpL_ar: اختر من 2 إلى 5 أدوات. «الأفضل لك» يعتمد على إجاباتك في المُوجِّه.
+cpick_en: Select at least two tools to compare.
+cpick_ar: اختر أداتين على الأقل للمقارنة.
+rCat_en: Category
+rCat_ar: الفئة
+rLvl_en: Skill level
+rLvl_ar: مستوى المهارة
+rPrice_en: Pricing
+rPrice_ar: السعر
+bestFor_en: Best for you
+bestFor_ar: الأفضل لك
+bestNo_en: Finish the Navigator to see which one fits you.
+bestNo_ar: أكمل المُوجِّه لتعرف أيها يناسبك.
+cnote_en: * Free tier per vendor; needs verification.
+cnote_ar: * خطة مجانية بحسب الشركة؛ تحتاج تحققًا.

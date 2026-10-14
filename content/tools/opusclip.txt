@@ -1,0 +1,28 @@
+# أداة: Opus Clip
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 150
+name: Opus Clip
+category: video
+website: https://www.opus.pro/
+pricing_page: https://www.opus.pro/pricing
+platforms: web
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: Turns long videos into short clips for social media.
+short_ar: يحوّل الفيديوهات الطويلة إلى مقاطع قصيرة للتواصل الاجتماعي.
+long_en: OpusClip turns long videos into short, captioned clips for social media, with AI clipping, reframing and a scheduler. Plans are credit-based; the free plan gives 60 credits a month with a watermark.
+long_ar: تحوّل OpusClip الفيديوهات الطويلة إلى مقاطع قصيرة بترجمة نصية للتواصل الاجتماعي، مع قصّ وإعادة تأطير وجدولة بالذكاء الاصطناعي. الخطط قائمة على الأرصدة، وتمنح المجانية 60 رصيدًا شهريًا مع علامة مائية.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://www.opus.pro/pricing
+paid_from: $15/mo
+plan: Free | $0 | 60 credits/month; watermark; clips exportable for 3 days
+plan: Starter | $15/mo | monthly only; 150 credits/month; no watermark
+plan: Pro | $29/mo | $14.5/mo billed yearly; 300 credits/month; 2 seats
+plan: Business | Custom | Contact sales

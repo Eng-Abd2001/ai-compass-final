@@ -1,0 +1,42 @@
+# المنصات التي يمكن ذكرها في الأدوات (platforms: ...).
+# phone: yes تعني أن للأداة تطبيقًا على الهاتف (iOS أو Android) فتظهر في فلتر «تطبيق للهاتف». لا تضع yes للويب أو Discord أو الإضافات.
+
+id: web
+en: Web
+ar: ويب
+phone: no
+---
+id: ios
+en: iOS
+ar: iOS
+phone: yes
+---
+id: android
+en: Android
+ar: Android
+phone: yes
+---
+id: desktop
+en: Desktop
+ar: حاسوب
+phone: no
+---
+id: ipad
+en: iPad
+ar: آيباد
+phone: no
+---
+id: discord
+en: Discord
+ar: ديسكورد
+phone: no
+---
+id: ext_editor
+en: Editor extensions
+ar: إضافات المحررات
+phone: no
+---
+id: ext_browser
+en: Browser extension
+ar: إضافة متصفح
+phone: no

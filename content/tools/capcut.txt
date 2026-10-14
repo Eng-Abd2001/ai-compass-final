@@ -1,0 +1,26 @@
+# أداة: CapCut
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 160
+name: CapCut
+category: video
+website: https://www.capcut.com/
+pricing_page: https://www.capcut.com/help/how-much-does-capcut-pro-cost
+platforms: web, desktop, ios, android
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: Video editor with AI-assisted features.
+short_ar: محرر فيديو بميزات مدعومة بالذكاء الاصطناعي.
+long_en: CapCut is a video editor with AI-assisted features such as captions, effects and templates, available on web, desktop and mobile. Its own help pages say prices vary by region, device and promotion and are shown inside the app.
+long_ar: CapCut محرر فيديو بميزات مدعومة بالذكاء الاصطناعي مثل الترجمة النصية والمؤثرات والقوالب، ويعمل على الويب وسطح المكتب والجوال. تقول صفحات مساعدته الرسمية إن الأسعار تختلف بحسب البلد والجهاز والعروض وتظهر داخل التطبيق.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://www.capcut.com/
+paid_from: $9.99/mo
+plan: Free | $0 | Free basic video editing
+plan: Pro | $9.99/mo | Advanced AI tools and premium templates

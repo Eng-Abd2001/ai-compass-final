@@ -1,0 +1,95 @@
+# نصوص صفحات الأدوات (/en/tools و /ar/tools وصفحة كل أداة) والصفحات القانونية والتذييل وشريط الموافقة وصفحة 404.
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+
+lang_en: English
+lang_ar: العربية
+home_en: Home
+home_ar: الرئيسية
+tools_en: AI tools
+tools_ar: أدوات الذكاء الاصطناعي
+toolsH_en: AI tools, explained
+toolsH_ar: أدوات الذكاء الاصطناعي، موضَّحة
+toolsLead_en: Every profile links to the official page. Prices appear only after verification.
+toolsLead_ar: كل ملف يرتبط بالصفحة الرسمية. لا تظهر الأسعار إلا بعد التحقق منها.
+profile_en: Intelligence Profile
+profile_ar: ملف التحليل
+free_en: Free tier (per vendor) *
+free_ar: خطة مجانية (بحسب الشركة) *
+phone_en: Has a phone app
+phone_ar: له تطبيق للهاتف
+oss_en: Open source
+oss_ar: مفتوح المصدر
+level_en: Skill level
+level_ar: مستوى المهارة
+pricing_en: Pricing
+pricing_ar: السعر
+limit_en: Limit
+limit_ar: الحد
+yes_en: Yes
+yes_ar: نعم
+no_en: No
+no_ar: لا
+bestFor_en: Best for
+bestFor_ar: الأنسب لـ
+facts_en: Facts
+facts_ar: الحقائق
+alts_en: Alternatives
+alts_ar: بدائل
+trust_en: Trust
+trust_ar: الموثوقية
+unv_en: Needs verification
+unv_ar: تحتاج تحققًا
+ver_en: Verified
+ver_ar: موثّق
+last_en: Last verified
+last_ar: آخر تحقق
+nv_en: Not verified
+nv_ar: لم يُتحقق
+official_en: Official site
+official_ar: الموقع الرسمي
+how_en: How fit is scored
+how_ar: كيف تُحتسب الملاءمة
+crit_en: Goal match +4, phone support +2, skill-level fit +1, free tier +1 (budget up to $10). Nothing else is counted.
+crit_ar: مطابقة الهدف +4، دعم الهاتف +2، ملاءمة مستوى الخبرة +1، خطة مجانية +1 (ميزانية حتى $10). لا يُحتسب شيء آخر.
+all_en: All tools
+all_ar: كل الأدوات
+platforms_en: Platforms
+platforms_ar: المنصات
+pricingPage_en: Pricing page
+pricingPage_ar: صفحة الأسعار
+note_en: * Free tier per vendor; needs verification.
+note_ar: * خطة مجانية بحسب الشركة؛ تحتاج تحققًا.
+ariaMain_en: Main
+ariaMain_ar: الرئيسية
+ariaFooter_en: Footer
+ariaFooter_ar: التذييل
+nfTitle_en: 404
+nfTitle_ar: 404
+nfText_en: This page does not exist.
+nfText_ar: هذه الصفحة غير موجودة.
+contactMissing_en: A contact address has not been configured yet.
+contactMissing_ar: لم يُضبط عنوان تواصل بعد.
+consentText_en: This site shows ads. Allow our advertising partners to load ads and set cookies?
+consentText_ar: يعرض هذا الموقع إعلانات. هل تسمح لشركائنا الإعلانيين بتحميل الإعلانات ووضع ملفات تعريف الارتباط؟
+consentYes_en: Accept
+consentYes_ar: أوافق
+consentNo_en: Decline
+consentNo_ar: أرفض
+goals.learn_en: Learn AI
+goals.learn_ar: تعلّم الذكاء الاصطناعي
+goals.money_en: Make money
+goals.money_ar: اربح المال
+goals.build_en: Build something
+goals.build_ar: ابنِ شيئًا
+goals.automate_en: Automate work
+goals.automate_ar: أتمتة العمل
+goals.create_en: Create content
+goals.create_ar: أنشئ محتوى
+goals.study_en: Study and research
+goals.study_ar: الدراسة والبحث
+levels.0_en: Beginner
+levels.0_ar: مبتدئ
+levels.1_en: Some experience
+levels.1_ar: خبرة متوسطة
+levels.2_en: Advanced
+levels.2_ar: متقدم

@@ -1,0 +1,13 @@
+node_modules
+.next
+next-env.d.ts
+public/index.html
+.env
+.env*.local
+.vercel
+data/tools.json
+data/ads.generated.json
+data/content.generated.json
+data/pages.generated.json
+data/site.generated.json
+data/ui.generated.json

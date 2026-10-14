@@ -1,0 +1,26 @@
+# أداة: PDF.ai
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 180
+name: PDF.ai
+category: documents
+website: https://pdf.ai/
+pricing_page: https://pdf.ai/pricing
+platforms: web, ext_browser
+goals: study
+level: 1
+free_plan: yes
+open_source: no
+short_en: Question answering over PDF documents.
+short_ar: إجابات عن أسئلتك من مستندات PDF.
+long_en: PDF.ai lets you chat with PDF documents to ask questions, get summaries and find answers, and offers an API to parse documents, extract data and split PDFs, plus a browser extension.
+long_ar: يتيح PDF.ai محادثة مستندات PDF لطرح الأسئلة والحصول على ملخصات وإجابات، ويقدّم واجهة API لتحليل المستندات واستخراج البيانات وتقسيم الملفات، مع إضافة متصفح.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://pdf.ai/pricing
+paid_from: $15/mo
+plan: Free | $0 | 1 PDF per day
+plan: Pro | $15/mo | Unlimited PDFs

@@ -1,0 +1,116 @@
+# الموجّه (الأسئلة، النتيجة، مسار الـ30 يومًا)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+navT_en: AI Navigator
+navT_ar: موجّه الذكاء الاصطناعي
+navL_en: Five quick answers. You get a stack, a 30-day path, and the reason behind every pick.
+navL_ar: خمس إجابات سريعة، فتحصل على مجموعة أدوات ومسار لمدة 30 يومًا مع سبب كل اختيار.
+goal_en: What are you trying to accomplish?
+goal_ar: ماذا تريد أن تحقق؟
+budget_en: What is your monthly budget?
+budget_ar: ما ميزانيتك الشهرية؟
+device_en: Which device do you have?
+device_ar: ما الجهاز المتاح لك؟
+level_en: How would you describe your AI experience?
+level_ar: كيف تصف خبرتك مع الذكاء الاصطناعي؟
+time_en: How much time per day?
+time_ar: كم من الوقت يوميًا؟
+goals.learn_en: Learn AI
+goals.learn_ar: تعلّم الذكاء الاصطناعي
+goals.money_en: Make money
+goals.money_ar: اربح المال
+goals.build_en: Build something
+goals.build_ar: ابنِ شيئًا
+goals.automate_en: Automate work
+goals.automate_ar: أتمتة العمل
+goals.create_en: Create content
+goals.create_ar: أنشئ محتوى
+goals.study_en: Study and research
+goals.study_ar: الدراسة والبحث
+bud.0_en: $0
+bud.0_ar: $0
+bud.1_en: Up to $10
+bud.1_ar: حتى $10
+bud.2_en: Up to $50
+bud.2_ar: حتى $50
+bud.3_en: $50 or more
+bud.3_ar: $50 أو أكثر
+dev.0_en: Phone only
+dev.0_ar: هاتف فقط
+dev.1_en: Phone and computer
+dev.1_ar: هاتف وحاسوب
+lv.0_en: Beginner
+lv.0_ar: مبتدئ
+lv.1_en: Some experience
+lv.1_ar: خبرة متوسطة
+lv.2_en: Advanced
+lv.2_ar: متقدم
+tm.0_en: 30 minutes
+tm.0_ar: 30 دقيقة
+tm.1_en: 1–2 hours
+tm.1_ar: 1–2 ساعة
+tm.2_en: 3+ hours
+tm.2_ar: 3 ساعات فأكثر
+step_en: Step
+step_ar: الخطوة
+back_en: Back
+back_ar: رجوع
+again_en: Start over
+again_ar: ابدأ من جديد
+path_en: My AI Path
+path_ar: مساري
+stack_en: Your AI stack
+stack_ar: مجموعة أدواتك
+p30_en: Your 30-day path
+p30_ar: مسارك لمدة 30 يومًا
+risk_en: Risk and reality
+risk_ar: المخاطر والواقع
+cost._fn: 2
+cost._v_en: Budget cap: {0}. Start on free tiers; paid prices are not verified yet, so check each official page. Daily time: {1}.
+cost._v_ar: سقف الميزانية: {0}. ابدأ بالخطط المجانية؛ الأسعار المدفوعة لم يُتحقق منها بعد، فراجع الصفحة الرسمية لكل أداة. الوقت اليومي: {1}.
+match_en: Matches your goal
+match_ar: تناسب هدفك
+free_en: Has a free tier (per vendor)
+free_ar: لها خطة مجانية (بحسب الشركة)
+phone_en: Has a phone app
+phone_ar: له تطبيق للهاتف
+pc_en: Needs a computer
+pc_ar: تحتاج حاسوبًا
+hard_en: Steeper learning curve than your level
+hard_ar: منحنى تعلّمها أصعب من مستواك
+ease_en: Fits your experience level
+ease_ar: تناسب مستوى خبرتك
+steps._fn: 4
+steps._v.0.0_en: Days 1–3
+steps._v.0.0_ar: الأيام 1–3
+steps._v.0.1_en: Learn what {0} can and can't do. Use it daily on one real task. Ignore every other tool.
+steps._v.0.1_ar: تعلّم ما تستطيعه {0} وما لا تستطيعه. استخدمها يوميًا في مهمة واحدة حقيقية. تجاهل بقية الأدوات.
+steps._v.1.0_en: Days 4–7
+steps._v.1.0_ar: الأيام 4–7
+steps._v.1.1_en: Learn a prompt structure: role, goal, context, format. Rewrite one prompt three ways and compare.
+steps._v.1.1_ar: تعلّم هيكل الطلب: الدور، الهدف، السياق، الصيغة. أعد كتابة طلب واحد بثلاث طرق وقارن.
+steps._v.2.0_en: Week 2
+steps._v.2.0_ar: الأسبوع 2
+steps._v.2.1_en: Add {1}. Build: {3}.
+steps._v.2.1_ar: أضف {1}. ابنِ: {3}.
+steps._v.3.0_en: Weeks 3–4
+steps._v.3.0_ar: الأسبوعان 3–4
+steps._v.3.1_en: Repeat the build with {2} or your own twist, then measure what actually saved time. Ignore hype and "secret prompt" packs.
+steps._v.3.1_ar: كرّر المشروع مع {2} أو بلمستك، ثم قِس ما وفّر وقتك فعلًا. تجاهل الضجيج وحزم «الأوامر السرية».
+build.learn_en: a one-page summary of a topic you want to master
+build.learn_ar: ملخصًا من صفحة واحدة لموضوع تريد إتقانه
+build.money_en: one small sample of a service you could offer
+build.money_ar: نموذجًا صغيرًا لخدمة يمكنك تقديمها
+build.build_en: a tiny working project, such as a script or one-page site
+build.build_ar: مشروعًا صغيرًا يعمل، مثل سكربت أو صفحة واحدة
+build.automate_en: one repeated task turned into a workflow
+build.automate_ar: مهمة متكررة واحدة محوّلة إلى سير عمل
+build.create_en: three pieces of content in your own voice
+build.create_ar: ثلاث قطع محتوى بأسلوبك
+build.study_en: a study guide and practice questions from your own notes
+build.study_ar: دليل مذاكرة وأسئلة تدريب من ملاحظاتك
+rm_en: Income varies widely and is never guaranteed. Test small before paying for anything.
+rm_ar: يتفاوت الدخل كثيرًا ولا يُضمن أبدًا. جرّب بشكل صغير قبل أن تدفع أي مبلغ.
+rg_en: Check outputs before relying on them, and never share personal or confidential data.
+rg_ar: راجع المخرجات قبل الاعتماد عليها، ولا تشارك بيانات شخصية أو سرية.

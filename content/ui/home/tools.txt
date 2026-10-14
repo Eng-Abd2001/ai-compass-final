@@ -1,0 +1,66 @@
+# مستكشف الأدوات ونافذة تفاصيل الأداة
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+toolT_en: Tool Explorer
+toolT_ar: مستكشف الأدوات
+toolL_en: Every fact below links to the official page. Prices are not shown until verified.
+toolL_ar: كل معلومة هنا مرتبطة بالصفحة الرسمية. لا تُعرض الأسعار قبل التحقق منها.
+pr_en: Pricing: not verified
+pr_ar: السعر: لم يُتحقق منه
+site_en: Official site
+site_ar: الموقع الرسمي
+free2_en: Free tier
+free2_ar: خطة مجانية
+ph_en: Phone app
+ph_ar: تطبيق هاتف
+oss_en: Open source
+oss_ar: مفتوح المصدر
+fFree_en: Free tier
+fFree_ar: خطة مجانية
+fPhone_en: Phone app
+fPhone_ar: تطبيق للهاتف
+fOss_en: Open source
+fOss_ar: مفتوح المصدر
+ph2_en: Search tools
+ph2_ar: ابحث في الأدوات
+none_en: No verified tools match your filters.
+none_ar: لا توجد أدوات موثّقة تطابق مرشّحاتك.
+clr_en: Clear filters
+clr_ar: مسح المرشّحات
+strong_en: Strength
+strong_ar: القوة
+weak_en: Limit
+weak_ar: الحد
+catAll_en: All categories
+catAll_ar: كل الفئات
+catL_en: Category
+catL_ar: الفئة
+pg_en: Pricing page
+pg_ar: صفحة الأسعار
+plT_en: Platforms
+plT_ar: المنصات
+prs_en: Paid from
+prs_ar: المدفوع من
+dDet_en: Details
+dDet_ar: التفاصيل
+dBest_en: Best for
+dBest_ar: الأنسب لـ
+dFacts_en: Facts
+dFacts_ar: الحقائق
+dAlt_en: Alternatives
+dAlt_ar: بدائل
+dTrust_en: Trust
+dTrust_ar: الموثوقية
+dLast_en: Last verified
+dLast_ar: آخر تحقق
+dNot_en: Not verified
+dNot_ar: لم يُتحقق
+dSrc_en: Source
+dSrc_ar: المصدر
+dLvl_en: Skill level
+dLvl_ar: مستوى المهارة
+dCrit_en: How fit is scored: goal match +4, phone support +2, skill-level fit +1, free tier +1 (budget up to $10). Nothing else is counted.
+dCrit_ar: كيف تُحتسب الملاءمة: مطابقة الهدف +4، دعم الهاتف +2، ملاءمة مستوى الخبرة +1، خطة مجانية +1 (ميزانية حتى $10). لا يُحتسب شيء آخر.
+openFull_en: Open full page
+openFull_ar: افتح الصفحة الكاملة

@@ -1,0 +1,30 @@
+# أداة: Notion AI
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 320
+name: Notion AI
+category: productivity
+website: https://www.notion.com/
+pricing_page: https://www.notion.com/pricing
+platforms: web, desktop, ios, android
+goals: study, automate
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI features inside the Notion workspace.
+short_ar: ميزات ذكاء اصطناعي داخل مساحة Notion.
+long_en: Notion is a workspace for notes, docs, databases and projects with built-in AI: Notion Agent that completes multi-step tasks, AI meeting notes, search across connected apps, and Custom Agents. Free and Plus include only a trial of Notion AI; the full AI features start with the Business plan.
+long_ar: Notion مساحة عمل للملاحظات والمستندات وقواعد البيانات والمشاريع مع ذكاء اصطناعي مدمج: وكيل Notion الذي ينجز مهام متعددة الخطوات، وملاحظات اجتماعات بالذكاء الاصطناعي، وبحث عبر التطبيقات المتصلة، ووكلاء مخصصون. تتضمن الخطتان المجانية وPlus تجربة محدودة فقط من Notion AI، وتبدأ ميزات الذكاء الاصطناعي الكاملة من خطة Business.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://www.notion.com/pricing
+paid_from: $10 per member/mo (Plus)
+plan: Free | $0 per member/mo | Trial of Notion AI; basic forms and sites; databases; 7-day page history; up to 10 guests; 5 MB uploads
+plan: Plus | $10 per member/mo | Trial of Notion AI; unlimited file uploads; custom forms and sites; 30-day page history
+plan: Business | $20 per member/mo | Notion Agent; AI Meeting Notes; Enterprise Search (beta); SAML SSO; 90-day page history
+plan: Enterprise | Custom | Zero data retention with LLM providers; SCIM; audit log; unlimited page history
+plan: Custom Agents | Free to try, then $10 per 1,000 credits | Add-on that requires Notion credits
+plan: Billing |  | The page offers monthly and yearly billing (yearly saves up to 20%); prices are in USD per member; custom domains cost $8/mo per domain paid annually or $10/mo monthly

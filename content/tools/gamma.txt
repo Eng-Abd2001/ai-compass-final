@@ -1,0 +1,30 @@
+# أداة: Gamma App
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 310
+name: Gamma App
+category: productivity
+website: https://gamma.app/
+pricing_page: https://gamma.app/pricing
+platforms: web, ios, android
+goals: create
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI-generated presentations, documents and sites.
+short_ar: عروض ومستندات ومواقع بالذكاء الاصطناعي.
+long_en: Gamma uses AI to create presentations, documents, websites, social posts and graphics from a prompt, with import from PDF and PPTX and export to PDF, PPTX, PNG and Google Slides. It has a free plan and Plus, Pro and Ultra plans; the official page lists what each plan includes but does not print the prices in its text.
+long_ar: تستخدم Gamma الذكاء الاصطناعي لإنشاء عروض ومستندات ومواقع ومنشورات اجتماعية ورسومات من وصف نصي، مع الاستيراد من PDF وPPTX والتصدير إلى PDF وPPTX وPNG وGoogle Slides. لها خطة مجانية وخطط Plus وPro وUltra، وتذكر الصفحة الرسمية ما تتضمنه كل خطة لكنها لا تطبع الأسعار في نصها.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://gamma.app/pricing
+paid_from: Shown on the pricing page (not printed in the page text)
+plan: Free | $0 | Up to 10 slides per prompt; presentations, docs, websites, social posts, images; import PDF and PPTX; export PDF, PPTX, PNG, Google Slides; no credit card
+plan: Plus | Shown on the page | Up to 100 slides per prompt; removes Gamma branding; advanced AI image models
+plan: Pro | Shown on the page | Most popular; premium image models; custom branding; analytics; up to 10 custom domains; API access
+plan: Ultra | Shown on the page | 20x more AI usage; most advanced text, image and video models; up to 100 custom domains; early access
+plan: Business | Shown on the page | A separate Business tab exists; its plans are not itemised in the page text
+plan: Billing |  | Monthly and annual billing are offered; the page text does not print the prices; subject to tax

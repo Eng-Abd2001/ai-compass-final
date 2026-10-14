@@ -1,0 +1,151 @@
+# ============================================================================
+#  إعدادات الإعلانات — الملف الوحيد الذي تُضبط منه الإعلانات (الموقع كله يقرأ منه فقط).
+#  بعد التعديل شغّل:  npm run build   (أو أعد تشغيل npm run dev). لا تعديل في الكود.
+#
+#  لإضافة إعلان:  1) اختر موضعًا من الأسفل (كل موضع يشرح أين يظهر بالضبط).
+#                2) اجعل enabled: yes لذلك الموضع واختر type:
+#                   adsense  -> املأ adsense_client (ca-pub-...) و adsense_slot (أرقام)
+#                   image    -> لافتة راعٍ مباشرة: image_src و image_href (يبدآن بـ https://)
+#                   html     -> الصق كود أي شبكة (Adsterra وغيرها) في سطر واحد بالحقل html
+#                3) اجعل enabled في الأعلى (المفتاح الرئيسي) yes.
+#                4) إن كان كود الإعلان يحمّل من نطاقات أخرى أضفها في allow_domains.
+#                5) صفحتا الخصوصية وإفصاح الإحالة تتغير نصوصهما تلقائيًا مع تفعيل الإعلانات.
+#  القواعد المضمّنة: كل إعلان موسوم «إعلان»، ولا يُحمَّل شيء قبل الموافقة إذا كان consent_required: yes.
+# ============================================================================
+
+# المفتاح الرئيسي: no = لا يعمل أي كود إعلاني ولا يظهر شريط الموافقة.
+enabled: no
+# yes = لا تُحمَّل الإعلانات إلا بعد ضغط الزائر «أوافق» (موصى به).
+consent_required: yes
+# النص الذي يظهر فوق كل إعلان.
+label_en: Advertisement
+label_ar: إعلان
+# النطاقات التي يسمح بها الموقع لكود إعلانك (تُستخدم فقط عند تفعيل الإعلانات). افصل بينها بفاصلة.
+allow_domains: https://pagead2.googlesyndication.com, https://googleads.g.doubleclick.net, https://tpc.googlesyndication.com, https://fundingchoicesmessages.google.com
+
+---
+# WHERE: Home page, directly BELOW the big "Navigate the AI Era." hero and ABOVE the AI Navigator. All devices.
+# SHAPE: responsive banner (up to 728x90). It never sits inside the hero.
+slot: after-hero
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html:
+
+---
+# WHERE: Home page, inside "Tool Explorer", as a card placed AFTER the 6th tool card in the grid.
+# SHAPE: native-style card (about 300px wide), labelled "Advertisement". Follows the grid when filters change.
+slot: tools-grid-native
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html:
+
+---
+# WHERE: Home page, between "Money Lab" and "AI Future Map" (the middle of the long page). All devices.
+slot: between-sections
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html:
+
+---
+# WHERE: Home page, at the very end of the content, just ABOVE the footer. All devices.
+slot: before-footer
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html:
+
+---
+# WHERE: Home page, PHONES ONLY (screens narrower than 900px): a thin bar fixed just ABOVE the bottom navigation.
+# BEHAVIOUR: appears only after the visitor has scrolled about 1.5 screens; has a close (X) button; never on desktop.
+# SHAPE: keep it short (320x50).
+slot: mobile-sticky
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: horizontal
+image_src:
+image_href:
+image_alt:
+image_width: 320
+image_height: 50
+html:
+
+---
+# WHERE: each tool's profile page, AFTER the first section (name, description, "Best for") and BEFORE the facts table.
+# SHAPE: native or responsive banner. Never above the page title.
+slot: tool-after-intro
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html:
+
+---
+# WHERE: each tool's profile page, in the side column (right in English, left in Arabic). DESKTOP ONLY (1100px and wider);
+# not shown on phones or tablets. Sticks while scrolling.
+# SHAPE: 300x250 or 300x600.
+slot: tool-sidebar
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html:
+
+---
+# WHERE: the tools directory page, as a card AFTER the 6th tool in the list.
+slot: tools-index-inline
+enabled: no
+type: adsense
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html:

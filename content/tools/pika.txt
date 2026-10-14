@@ -1,0 +1,29 @@
+# أداة: Pika Labs
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 130
+name: Pika Labs
+category: video
+website: https://pika.art/
+pricing_page: https://pika.art/pricing
+platforms: web, ios
+goals: create
+level: 1
+free_plan: no
+open_source: no
+short_en: Short AI videos from text or images.
+short_ar: فيديوهات قصيرة بالذكاء الاصطناعي من نص أو صور.
+long_en: Pika generates AI video, images and audio from many models in one place. The free plan has no monthly credits, so you buy credit packs or subscribe from $10 a month.
+long_ar: تولّد Pika الفيديو والصور والصوت بالذكاء الاصطناعي من نماذج متعددة في مكان واحد. الخطة المجانية بلا أرصدة شهرية، فتشتري باقات أرصدة أو تشترك من 10$ شهريًا.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://pika.art/pricing
+paid_from: $10/mo ($8/mo billed yearly)
+plan: Free | $0 | 0 monthly credits; credit packs only
+plan: Starter | $10/mo | $8/mo billed yearly; 900 credits
+plan: Creator | $35/mo | $28/mo billed yearly; 3,150 credits; commercial license
+plan: Fancy | from $95/mo | from $76/mo billed yearly; 8,550+ credits
+plan: Enterprise | Contact sales

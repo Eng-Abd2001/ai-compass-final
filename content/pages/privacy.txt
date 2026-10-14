@@ -1,0 +1,29 @@
+# صفحة: Privacy Policy
+# عدّل النصوص بعد النقطتين. كل text_en يقابله text_ar تحته. لإضافة فقرة أضف زوج text_en/text_ar، ولحذفها احذف الزوج.
+
+title_en: Privacy Policy
+title_ar: سياسة الخصوصية
+description_en: What data AI Compass stores and who else sees it.
+description_ar: ما البيانات التي يخزنها AI Compass ومن يراها أيضًا.
+order: 30
+show_email: no
+
+---
+heading_en: What we collect
+heading_ar: ما الذي نجمعه
+text_en: AI Compass requires no user accounts. Your Navigator answers, language preference and Academy progress are saved only in your browser's local storage on your own device. We cannot see them, and clearing your browser data removes them.
+text_ar: لا يتطلب AI Compass إنشاء حسابات. تُحفظ إجاباتك في المُوجِّه ولغتك المفضلة وتقدمك في الأكاديمية في التخزين المحلي لمتصفحك على جهازك فقط. لا نستطيع الاطلاع عليها، ومسح بيانات المتصفح يحذفها.
+
+---
+heading_en: Third parties and advertising
+heading_ar: أطراف أخرى والإعلانات
+text_en: Fonts load from Google Fonts, and our hosting provider keeps standard server logs such as IP address and requested page. When advertising slots are active, third-party ad networks may use standard cookies or scripts according to your ad preferences on the site.
+text_ar: تُحمَّل الخطوط من Google Fonts، كما يحتفظ مزوّد الاستضافة بسجلات خادم معتادة مثل عنوان IP والصفحة المطلوبة. وعند تفعيل المساحات الإعلانية، قد تستخدم شبكات الإعلانات الخارجية ملفات تعريف ارتباط أو نصوصًا برمجية قياسية وفقًا لتفضيلات الإعلانات الخاصة بك في الموقع.
+text_en: External links to AI tools and official páginas lead to other sites governed by their own privacy policies.
+text_ar: الروابط الخارجية للأدوات والمصادر الرسمية تقودك إلى مواقع أخرى تخضع لسياسات الخصوصية الخاصة بها.
+
+---
+heading_en: Your choices
+heading_ar: خياراتك
+text_en: You can manage ad preferences directly from the site footer or clear local data from your browser settings. For any questions, reach out via our official channels on the Contact page.
+text_ar: يمكنك إدارة تفضيلات الإعلانات مباشرة من أسفل الموقع أو مسح البيانات المحلية من إعدادات متصفحك. ولأي استفسارات، تواصل معنا عبر قنواتنا الرسمية في صفحة التواصل.

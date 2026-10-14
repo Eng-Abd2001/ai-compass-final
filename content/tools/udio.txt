@@ -1,0 +1,27 @@
+# أداة: Udio
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 270
+name: Udio
+category: audio
+website: https://www.udio.com/
+pricing_page: https://www.udio.com/pricing
+platforms: web
+goals: create
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI music creation from text prompts.
+short_ar: إنشاء موسيقى بالذكاء الاصطناعي من أوامر نصية.
+long_en: Udio is an AI music generator that creates songs from text prompts.
+long_ar: Udio مولّد موسيقى بالذكاء الاصطناعي ينشئ أغاني من أوامر نصية.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://www.udio.com/pricing
+paid_from: $10/mo
+plan: Free | $0 | Basic daily credits
+plan: Standard | $10/mo | 1200 credits per month
+plan: Pro | $30/mo | 4800 credits per month

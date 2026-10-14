@@ -1,0 +1,26 @@
+# أداة: ChatPDF
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 170
+name: ChatPDF
+category: documents
+website: https://www.chatpdf.com/
+pricing_page:
+platforms: web, ios, android
+goals: study, learn
+level: 1
+free_plan: yes
+open_source: no
+short_en: Ask questions about a PDF you upload.
+short_ar: اسأل عن ملف PDF ترفعه.
+long_en: ChatPDF lets you upload a PDF and ask questions about it, getting answers drawn from the document.
+long_ar: يتيح لك ChatPDF رفع ملف PDF وطرح أسئلة عنه والحصول على إجابات مستخرجة من المستند.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://www.chatpdf.com/pricing
+paid_from: $19.99/mo
+plan: Free | $0 | 2 PDFs per day
+plan: Plus | $19.99/mo | Unlimited PDFs and queries

@@ -1,0 +1,16 @@
+# خريطة المستقبل (العناوين وأسماء الوسوم؛ العناصر في content/future.txt)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+fT_en: AI Future Map
+fT_ar: خريطة مستقبل AI
+fL_en: Not predictions. Each item is labeled by how much evidence stands behind it.
+fL_ar: ليست تنبؤات. كل عنصر موسوم بقوة الدليل خلفه.
+st.o_en: Observed
+st.o_ar: مُلاحَظ
+st.e_en: Emerging
+st.e_ar: ناشئ
+st.l_en: Likely
+st.l_ar: مرجّح
+st.s_en: Speculative
+st.s_ar: تخميني

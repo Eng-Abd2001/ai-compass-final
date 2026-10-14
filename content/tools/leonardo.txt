@@ -1,0 +1,32 @@
+# أداة: Leonardo.ai
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 220
+name: Leonardo.ai
+category: image
+website: https://leonardo.ai/
+pricing_page: https://leonardo.ai/pricing
+platforms: web, ios, android
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI image generation and design assets.
+short_ar: توليد صور وأصول تصميم بالذكاء الاصطناعي.
+long_en: Leonardo.Ai generates images and video, and lets you train your own style models. A free plan gives 150 fast tokens a day; paid plans add private creations and full ownership of your images.
+long_ar: تولّد Leonardo.Ai الصور والفيديو وتتيح لك تدريب نماذج بأسلوبك. تمنح الخطة المجانية 150 رمزًا سريعًا يوميًا، وتضيف الخطط المدفوعة خصوصية الإبداعات وملكية كاملة لصورك.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://leonardo.ai/pricing
+paid_from: $12/mo
+plan: Free | $0 | 150 fast tokens/day; creations are public; Leonardo keeps rights, you get a commercial licence
+plan: Essential | $12/mo | 8,500 fast tokens/month; private creations
+plan: Premium | $30/mo | 25,000 tokens/month; unlimited relaxed images on selected models
+plan: Ultimate | $60/mo | 60,000 tokens/month; unlimited relaxed images and video on selected models
+plan: Team Starter | $72/mo | $24 per seat
+plan: Team Growth | $144/mo | $48 per seat
+plan: API | Pay as you go | Custom plans via sales
+plan: Billing |  | Prices exclude tax; yearly billing is up to 20% off
