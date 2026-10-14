@@ -4,8 +4,6 @@ import type { AdConf } from "@/lib/ads";
 
 const KEY = "aic_ads";
 const https = (u?: string) => typeof u === "string" && u.startsWith("https://");
-let adQueue: Promise<void> = Promise.resolve();
-
 function granted(required: boolean) {
   if (!required) return true;
   try { return localStorage.getItem(KEY) === "granted"; } catch { return false; }
@@ -41,21 +39,21 @@ export function AdClient({ conf, label, required }: { conf: AdConf; label: strin
       }
       try { ((window as unknown as { adsbygoogle: unknown[] }).adsbygoogle ||= []).push({}); } catch {}
     } else if (conf.type === "html" && conf.html) {
-      const html = conf.html;
-      adQueue = adQueue.then(() => new Promise<void>((resolve) => {
-        if (!el.isConnected) { resolve(); return; }
-        const frag = document.createRange().createContextualFragment(html);
-        const scripts = Array.from(frag.querySelectorAll("script[src]"));
-        if (!scripts.length) { el.appendChild(frag); resolve(); return; }
-        let left = scripts.length;
-        const timer = setTimeout(resolve, 2500);
-        const done = () => { if (--left <= 0) { clearTimeout(timer); setTimeout(resolve, 60); } };
-        scripts.forEach((s) => {
-          s.addEventListener("load", done, { once: true });
-          s.addEventListener("error", done, { once: true });
-        });
-        el.appendChild(frag);
-      }));
+      const mw = conf.html.match(/['"]?width['"]?\s*:\s*(\d+)/);
+      const mh = conf.html.match(/['"]?height['"]?\s*:\s*(\d+)/);
+      const w = mw ? Number(mw[1]) : (conf.image?.width || 300);
+      const h = mh ? Number(mh[1]) : (conf.image?.height || 250);
+      const cw = Math.min(window.innerWidth - 32, el.clientWidth || w);
+      const sc = cw > 0 && cw < w ? cw / w : 1;
+      if (sc < 1) el.style.height = Math.ceil(h * sc) + "px";
+      const f = document.createElement("iframe");
+      f.width = String(w);
+      f.height = String(h);
+      f.scrolling = "no";
+      f.referrerPolicy = "no-referrer-when-downgrade";
+      f.style.cssText = `width:${w}px;height:${h}px;flex:0 0 ${w}px;border:0;overflow:hidden;display:block;${sc < 1 ? `transform:scale(${sc});transform-origin:top center;` : ""}`;
+      f.srcdoc = `<!DOCTYPE html><html><head><meta charset="utf-8"><style>html,body{margin:0;padding:0;overflow:hidden;background:transparent;display:flex;justify-content:center;align-items:center;height:100%}</style></head><body>${conf.html}</body></html>`;
+      el.appendChild(f);
     }
   }, [ok, conf]);
   if (!ok) return null;
