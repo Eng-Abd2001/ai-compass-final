@@ -4,6 +4,8 @@ import type { AdConf } from "@/lib/ads";
 
 const KEY = "aic_ads";
 const https = (u?: string) => typeof u === "string" && u.startsWith("https://");
+let adQueue: Promise<void> = Promise.resolve();
+
 function granted(required: boolean) {
   if (!required) return true;
   try { return localStorage.getItem(KEY) === "granted"; } catch { return false; }
@@ -21,6 +23,7 @@ export function AdClient({ conf, label, required }: { conf: AdConf; label: strin
   useEffect(() => {
     const el = box.current;
     if (!ok || !el || el.dataset.m) return;
+    el.dataset.m = "1";
     if (conf.type === "image" && conf.image && https(conf.image.src) && https(conf.image.href)) {
       const a = document.createElement("a"); const i = new Image();
       a.href = conf.image.href; a.target = "_blank"; a.rel = "sponsored noopener noreferrer";
@@ -38,9 +41,22 @@ export function AdClient({ conf, label, required }: { conf: AdConf; label: strin
       }
       try { ((window as unknown as { adsbygoogle: unknown[] }).adsbygoogle ||= []).push({}); } catch {}
     } else if (conf.type === "html" && conf.html) {
-      el.appendChild(document.createRange().createContextualFragment(conf.html));
-    } else return;
-    el.dataset.m = "1";
+      const html = conf.html;
+      adQueue = adQueue.then(() => new Promise<void>((resolve) => {
+        if (!el.isConnected) { resolve(); return; }
+        const frag = document.createRange().createContextualFragment(html);
+        const scripts = Array.from(frag.querySelectorAll("script[src]"));
+        if (!scripts.length) { el.appendChild(frag); resolve(); return; }
+        let left = scripts.length;
+        const timer = setTimeout(resolve, 2500);
+        const done = () => { if (--left <= 0) { clearTimeout(timer); setTimeout(resolve, 60); } };
+        scripts.forEach((s) => {
+          s.addEventListener("load", done, { once: true });
+          s.addEventListener("error", done, { once: true });
+        });
+        el.appendChild(frag);
+      }));
+    }
   }, [ok, conf]);
   if (!ok) return null;
   return (<aside className="ad" aria-label={label}><small>{label}</small><div className="adb" ref={box} /></aside>);
