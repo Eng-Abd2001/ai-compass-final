@@ -8,9 +8,7 @@ const csp = [
   `script-src 'self' 'unsafe-inline' ${extra}`,
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src https://fonts.gstatic.com data:",
-  `img-src 'self' data: blob: ${extra}`,
-  `connect-src 'self' ${extra}`,
-  `frame-src 'self' data: blob: ${extra || "'none'"}`,
+  `img-src 'self' data: blob: https:"'none'"}`,
   "frame-ancestors 'none'",
   "base-uri 'self'",
   "form-action 'self'"
