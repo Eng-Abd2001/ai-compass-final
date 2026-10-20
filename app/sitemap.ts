@@ -11,6 +11,8 @@ const alt = (path: string) => ({
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   return [
+    { url: "https://ai-compass-murex-mu.vercel.app/ar/prompts", lastModified: new Date(), changeFrequency: "weekly", priority: 0.9 },
+    { url: "https://ai-compass-murex-mu.vercel.app/en/prompts", lastModified: new Date(), changeFrequency: "weekly", priority: 0.9 },
     { url: `${SITE_URL}/`, lastModified: now, changeFrequency: "weekly", priority: 1 },
     ...LANGS.map((l) => ({ url: `${SITE_URL}/${l}/tools`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.8, alternates: alt("/tools") })),
     ...TOOLS.flatMap((t) =>
