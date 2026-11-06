@@ -1,0 +1,25 @@
+# صحة المجموعة والتكلفة
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+hT_en: Stack Health and Cost
+hT_ar: صحة مجموعتك وتكلفتها
+hL_en: Tick the tools you use and enter what you pay. Nothing leaves your device.
+hL_ar: حدّد الأدوات التي تستخدمها وأدخل ما تدفعه. لا شيء يغادر جهازك.
+hPrice_en: Monthly price you pay
+hPrice_ar: السعر الشهري الذي تدفعه
+hTeam_en: Team size
+hTeam_ar: حجم الفريق
+hMonth_en: Monthly cost
+hMonth_ar: التكلفة الشهرية
+hYear_en: Per year
+hYear_ar: في السنة
+hOver._fn: 3
+hOver._v_en: You use {0} tools in the "{1}" category: {2}. Check whether one covers your needs.
+hOver._v_ar: تستخدم {0} أدوات في فئة «{1}»: {2}. تحقق هل تكفيك واحدة منها.
+hOk_en: No overlapping tools found.
+hOk_ar: لم نجد أدوات متداخلة.
+hNone_en: Tick at least one tool.
+hNone_ar: حدّد أداة واحدة على الأقل.
+hFree_en: Prices are the ones you entered, in any currency. Tools here list a free tier per vendor; compare limits on the official pages.
+hFree_ar: الأسعار هي ما أدخلته أنت، بأي عملة. لأدوات هنا خطة مجانية بحسب الشركة؛ قارن الحدود في الصفحات الرسمية.

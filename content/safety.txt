@@ -1,0 +1,68 @@
+# مركز الأمان. نوعان من الكتل: type: topic (موضوع إرشادي) و type: policy (رابط سياسة رسمية).
+# risk: medium / high.   لا تخترع سياسات: ضع الرابط الرسمي فقط.
+
+type: topic
+title_en: Account bans
+title_ar: حظر الحسابات
+risk: medium
+applies_en: All AI accounts
+applies_ar: كل حسابات AI
+text_en: Providers can restrict accounts that break their usage policies. Read the policy before reselling access or automating heavily.
+text_ar: يمكن للشركات تقييد الحسابات المخالفة لسياسات الاستخدام. اقرأ السياسة قبل إعادة بيع الوصول أو الأتمتة الكثيفة.
+---
+type: topic
+title_en: Spam and automation
+title_ar: البريد المزعج والأتمتة
+risk: medium
+applies_en: Social and messaging platforms
+applies_ar: منصات التواصل والمراسلة
+text_en: Bulk or automated posting and outreach often breaks platform rules, even when the text is good. Check each platform first.
+text_ar: النشر أو المراسلة الآلية الكثيفة تخالف غالبًا قواعد المنصات حتى لو كان النص جيدًا. راجع قواعد كل منصة أولًا.
+---
+type: topic
+title_en: Copyright and commercial use
+title_ar: حقوق النشر والاستخدام التجاري
+risk: medium
+applies_en: Anyone publishing or selling output
+applies_ar: كل من ينشر المخرجات أو يبيعها
+text_en: Rules on owning and reusing AI output differ by provider and country. Check the provider's terms and local law.
+text_ar: تختلف قواعد ملكية مخرجات AI وإعادة استخدامها بحسب الشركة والبلد. راجع شروط الشركة والقانون المحلي.
+---
+type: topic
+title_en: Privacy and personal data
+title_ar: الخصوصية والبيانات الشخصية
+risk: high
+applies_en: Anyone handling other people's data
+applies_ar: كل من يتعامل مع بيانات الآخرين
+text_en: Don't paste personal, client or confidential data into a tool unless its data terms allow it. Prefer business or local options for sensitive work.
+text_ar: لا تلصق بيانات شخصية أو بيانات عملاء أو سرّية في أداة ما لم تسمح شروطها بذلك. فضّل الخيارات التجارية أو المحلية للعمل الحسّاس.
+---
+type: topic
+title_en: Deepfakes and impersonation
+title_ar: التزييف العميق وانتحال الشخصية
+risk: high
+applies_en: Everyone
+applies_ar: الجميع
+text_en: Cloning a real person's face or voice without consent can be illegal and is banned by providers. Don't.
+text_ar: استنساخ وجه شخص حقيقي أو صوته دون موافقته قد يكون مخالفًا للقانون وتحظره الشركات. لا تفعل.
+---
+type: topic
+title_en: Scams
+title_ar: الاحتيال
+risk: high
+applies_en: Everyone
+applies_ar: الجميع
+text_en: AI makes scams more convincing. Confirm through a second channel before sending money or credentials.
+text_ar: يجعل AI عمليات الاحتيال أكثر إقناعًا. تأكّد عبر قناة ثانية قبل إرسال مال أو بيانات دخول.
+---
+type: policy
+name: OpenAI usage policies
+url: https://openai.com/policies/usage-policies/
+---
+type: policy
+name: Anthropic Acceptable Use Policy
+url: https://www.anthropic.com/legal/aup
+---
+type: policy
+name: Google generative AI prohibited use policy
+url: https://policies.google.com/terms/generative-ai/use-policy

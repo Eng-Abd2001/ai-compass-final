@@ -1,0 +1,28 @@
+# أداة: AskYourPDF
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 190
+name: AskYourPDF
+category: documents
+website: https://askyourpdf.com/
+pricing_page: https://askyourpdf.com/pricing
+platforms: web, ios, android, ext_browser
+goals: study, learn
+level: 1
+free_plan: yes
+open_source: no
+short_en: Chat with documents and PDFs.
+short_ar: محادثة مع المستندات وملفات PDF.
+long_en: AskYourPDF lets you chat with PDFs and other documents, summarize them, auto-fill PDF forms and embed an AI agent on your website. It has iOS and Android apps and a Chrome extension.
+long_ar: تتيح AskYourPDF محادثة ملفات PDF والمستندات وتلخيصها، وتعبئة نماذج PDF تلقائيًا، وتضمين وكيل ذكي في موقعك. تتوفر تطبيقات iOS وAndroid وإضافة Chrome.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://askyourpdf.com/pricing
+paid_from: $11.99/mo (billed yearly)
+plan: Free | $0 | 100 pages/document, 1 document/day, 50 questions/day
+plan: Premium | $11.99/mo | billed yearly (25% off); 2,500 pages/document; 50 documents/day
+plan: Pro | $14.99/mo | billed yearly; 6,000 pages/document; 150 documents/day
+plan: Enterprise | Custom | Talk to sales

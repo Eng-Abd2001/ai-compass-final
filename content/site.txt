@@ -1,0 +1,11 @@
+# إعدادات عامة للموقع.
+# site_name: اسم الموقع (يظهر في الشعار والعناوين والبطاقات).
+# description_en / description_ar: وصف الموقع لمحركات البحث وبطاقات المشاركة.
+# theme_color: لون شريط المتصفح على الهاتف (مثل #080A0F).
+# contact_email: البريد الذي يظهر في صفحة «التواصل». اتركه فارغًا إن لم يكن لديك بريد (ستظهر رسالة «لم يُضبط بعد»).
+
+site_name: AI Compass
+description_en: Understand AI, choose better tools, and get a personal path, in Arabic and English.
+description_ar: افهم الذكاء الاصطناعي، واختر أدوات أفضل، واحصل على مسار شخصي، بالعربية والإنجليزية.
+theme_color: #080A0F
+contact_email:

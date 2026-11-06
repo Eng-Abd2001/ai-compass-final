@@ -1,0 +1,26 @@
+# أداة: Perplexity
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 40
+name: Perplexity
+category: research
+website: https://www.perplexity.ai/
+pricing_page: https://www.perplexity.ai/pro
+platforms: web, ios, android
+goals: study, learn
+level: 1
+free_plan: yes
+open_source: no
+short_en: Answers with cited web sources, useful for fact-finding.
+short_ar: إجابات مع مصادر ويب مذكورة، مفيدة للتحقق.
+long_en: Perplexity is an AI answer engine that searches the web and answers with cited sources. Perplexity Pro adds the latest AI models, extended deep research, more file uploads and deeper sourcing, according to its own page.
+long_ar: Perplexity محرك إجابات بالذكاء الاصطناعي يبحث في الويب ويجيب مع مصادر مذكورة. وتضيف Perplexity Pro أحدث النماذج وبحثًا معمّقًا موسّعًا ورفع ملفات أكثر ومصادر أعمق، بحسب صفحتها الرسمية.
+limit_en: Check the citations; summaries can still be wrong.
+limit_ar: تحقّق من المصادر؛ الملخصات قد تخطئ.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://www.perplexity.ai/pro
+paid_from: $20/mo
+plan: Free | $0 | Standard AI search
+plan: Pro | $20/mo | Unlimited Pro searches, choice of top AI models

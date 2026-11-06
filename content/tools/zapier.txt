@@ -1,0 +1,26 @@
+# أداة: Zapier
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 80
+name: Zapier
+category: automation
+website: https://zapier.com/
+pricing_page:
+platforms: web
+goals: automate, build
+level: 2
+free_plan: yes
+open_source: no
+short_en: Connects apps with no-code automations.
+short_ar: يربط التطبيقات بأتمتة بدون برمجة.
+long_en: Zapier connects apps with no-code automations (Zaps) and can add AI steps to them. It has a free plan with task limits and paid plans.
+long_ar: يربط Zapier التطبيقات بأتمتة بدون برمجة (Zaps) ويمكنه إضافة خطوات ذكاء اصطناعي إليها. له خطة مجانية بحدود مهام وخطط مدفوعة.
+limit_en: Free plan limits apply; costs grow with use.
+limit_ar: للخطة المجانية حدود، والتكلفة تزيد مع الاستخدام.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://zapier.com/pricing
+paid_from: $19.99/mo
+plan: Free | $0 | 100 tasks per month
+plan: Professional | $19.99/mo | 750 tasks per month, premium apps

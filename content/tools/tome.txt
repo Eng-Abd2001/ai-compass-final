@@ -1,0 +1,28 @@
+# أداة: Tome
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 330
+name: Tome
+category: productivity
+website: https://tome.app/
+pricing_page: https://tome.app/pricing
+platforms: web, ios
+goals: create
+level: 1
+free_plan: yes
+open_source: no
+short_en: AI storytelling and presentation tool.
+short_ar: أداة سرد وعروض بالذكاء الاصطناعي.
+long_en: Tome is a presentation and storytelling tool. According to its pricing page, the free Basic plan covers manual editing, templates and unlimited sharing but no AI features; AI generation and design tools start with the Professional plan, and Enterprise adds AI research, custom tuning and data integrations.
+long_ar: Tome أداة للعروض وسرد القصص. بحسب صفحة أسعارها، تغطي الخطة المجانية Basic التحرير اليدوي والقوالب والمشاركة غير المحدودة دون ميزات ذكاء اصطناعي، وتبدأ أدوات التوليد والتصميم بالذكاء الاصطناعي من خطة Professional، وتضيف Enterprise البحث بالذكاء الاصطناعي والضبط المخصص وتكاملات البيانات.
+limit_en: Plans and limits change; check the pricing page.
+limit_ar: الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://tome.app/pricing
+paid_from: $16/mo (Professional)
+plan: Basic | $0/mo | Manual editing, template browsing, unlimited sharing; AI features not included
+plan: Professional | $16/mo | AI generation and design tools; engagement analytics; custom branding; 100+ templates; PDF export
+plan: Enterprise | Contact sales | AI research and personalization; custom AI tuning; data integrations; white-glove setup
+plan: Billing |  | The page shows no date; confirm the product is still sold before relying on these prices

@@ -1,0 +1,73 @@
+# مختبر ربح المال. كل كتلة = طريقة واحدة. أضف كتلة جديدة بعد --- أو احذف كتلة كاملة.
+# difficulty: beginner / intermediate     phone: yes / no     competition: medium / high
+# لا تكتب أرقام دخل غير موثّقة.
+
+name_en: AI-assisted writing and editing
+name_ar: كتابة وتحرير بمساعدة AI
+difficulty: beginner
+phone: yes
+competition: high
+skills_en: Clear writing, fact-checking
+skills_ar: كتابة واضحة وتدقيق الحقائق
+income_en: Per project or hourly
+income_ar: بالمشروع أو بالساعة
+risk_en: Some clients ban AI or require disclosure; the errors are yours.
+risk_ar: بعض العملاء يمنعون AI أو يشترطون الإفصاح؛ والأخطاء عليك.
+first_step_en: Write one 300-word sample in a niche you know, then fact-check every claim.
+first_step_ar: اكتب عيّنة من 300 كلمة في مجال تعرفه، ثم تحقّق من كل ادعاء فيها.
+---
+name_en: Arabic–English translation review
+name_ar: مراجعة ترجمة عربي–إنجليزي
+difficulty: beginner
+phone: yes
+competition: medium
+skills_en: Two languages at a professional level
+skills_ar: إتقان لغتين بمستوى احترافي
+income_en: Per page or per project
+income_ar: بالصفحة أو بالمشروع
+risk_en: Errors in legal or medical text cause real harm; avoid those at first.
+risk_ar: أخطاء النصوص القانونية أو الطبية تسبب ضررًا حقيقيًا؛ تجنّبها في البداية.
+first_step_en: Machine-translate one page, correct it yourself, and note every fix.
+first_step_ar: ترجم صفحة بالآلة ثم صحّحها بنفسك ودوّن كل تعديل.
+---
+name_en: Social content for small businesses
+name_ar: محتوى اجتماعي للأعمال الصغيرة
+difficulty: beginner
+phone: yes
+competition: high
+skills_en: Basic design, knowing the audience
+skills_ar: تصميم أساسي وفهم الجمهور
+income_en: Monthly retainer or per package
+income_ar: اشتراك شهري أو بالباقة
+risk_en: Brand and image rights; mass automated posting can break platform rules.
+risk_ar: حقوق العلامة والصور؛ والنشر الآلي الكثيف قد يخالف قواعد المنصات.
+first_step_en: Plan one week of posts for a local business and show it for free.
+first_step_ar: خطّط أسبوعًا من المنشورات لنشاط محلي واعرضه مجانًا.
+---
+name_en: Workflow automation for small teams
+name_ar: أتمتة سير العمل للفرق الصغيرة
+difficulty: intermediate
+phone: no
+competition: medium
+skills_en: Logic, no-code tools, patience
+skills_ar: منطق وأدوات بدون برمجة وصبر
+income_en: Per project plus maintenance
+income_ar: بالمشروع مع الصيانة
+risk_en: You handle client data and permissions; a broken workflow is your problem.
+risk_ar: تتعامل مع بيانات العملاء والصلاحيات؛ وعطل سير العمل مسؤوليتك.
+first_step_en: Automate one repetitive task of your own and record the time it saves.
+first_step_ar: أتمت مهمة متكررة لديك وسجّل الوقت الذي توفّره.
+---
+name_en: Teaching AI skills to others
+name_ar: تعليم مهارات AI للآخرين
+difficulty: beginner
+phone: yes
+competition: medium
+skills_en: Explaining simply, a few tested workflows
+skills_ar: الشرح البسيط وعدة سير عمل مجرّبة
+income_en: Per session or per course
+income_ar: بالجلسة أو بالدورة
+risk_en: Overpromising results damages trust; teach only what you have used.
+risk_ar: المبالغة في الوعود تضر الثقة؛ علّم فقط ما استخدمته.
+first_step_en: Teach one friend one workflow in 30 minutes and ask what was unclear.
+first_step_ar: علّم صديقًا سير عمل واحدًا في 30 دقيقة واسأله عمّا لم يتضح.

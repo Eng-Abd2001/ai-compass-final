@@ -1,0 +1,25 @@
+# الأكاديمية (الوصف والأزرار؛ المستويات نفسها في content/academy.txt)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+acT_en: AI Academy
+acT_ar: أكاديمية الذكاء الاصطناعي
+acL_en: Levels from basics to engineering. Each ends with a project you can finish.
+acL_ar: مستويات من الأساسيات إلى الهندسة. ينتهي كل مستوى بمشروع تستطيع إنجازه.
+prog._fn: 2
+prog._v_en: {0} of {1} levels complete
+prog._v_ar: أكملتَ {0} من {1} مستويات
+done_en: Mark complete
+done_ar: تم إنجازه
+est_en: Estimated hours
+est_ar: الساعات التقديرية
+pre_en: Prerequisite
+pre_ar: المتطلب السابق
+tp_en: Topics
+tp_ar: المواضيع
+pj_en: Project
+pj_ar: المشروع
+lvl_en: Level
+lvl_ar: المستوى
+none0_en: None
+none0_ar: لا شيء

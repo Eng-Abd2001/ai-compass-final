@@ -1,0 +1,473 @@
+# صفحة أطلس الصيغ /en/convert و /ar/convert — نصوص الواجهة. {0} {1} أماكن لقيم يضعها الموقع: أبقِها في مكانها.
+cvNav_en: Format Atlas
+cvNav_ar: أطلس الصيغ
+cvH_en: Format Atlas — Convert PDF, Images and Documents on Your Device
+cvH_ar: أطلس الصيغ — حوّل PDF والصور والمستندات داخل جهازك
+cvLead_en: Drop a file and the Atlas shows only the conversions that really work for it. Nothing is uploaded: every file stays in your browser.
+cvLead_ar: أسقط ملفًا وسيعرض لك الأطلس التحويلات الممكنة له فقط. لا يُرفع أي شيء: كل ملف يبقى داخل متصفحك.
+cvDesc_en: Free in-browser converter for PDF, PNG, JPG, WebP, GIF, ICO, Word, Excel, PowerPoint, CSV, JSON and Markdown. Shrink files to an exact size, merge and split PDFs, remove hidden metadata. No upload.
+cvDesc_ar: محوّل مجاني داخل المتصفح لملفات PDF وPNG وJPG وWebP وGIF وICO وWord وExcel وPowerPoint وCSV وJSON وMarkdown. صغّر الملفات إلى حجم محدد، ادمج PDF وقسّمه، وأزل البيانات المخفية. بلا رفع للملفات.
+cvChip1_en: On your device, no upload
+cvChip1_ar: على جهازك، بلا رفع
+cvChip2_en: Shrink to an exact size
+cvChip2_ar: تصغير إلى حجم محدد
+cvChip3_en: Hidden-data X-ray
+cvChip3_ar: كاشف البيانات المخفية
+cvWorkbench_en: Conversion workbench
+cvWorkbench_ar: منصة التحويل
+cvDropT_en: Drop files here
+cvDropT_ar: أسقط الملفات هنا
+cvDropS_en: or tap to choose, or paste an image (Ctrl+V). Up to 50 files.
+cvDropS_ar: أو اضغط للاختيار، أو الصق صورة (Ctrl+V). حتى 50 ملفًا.
+cvChoose_en: Choose files
+cvChoose_ar: اختر ملفات
+cvFiles_en: Your files
+cvFiles_ar: ملفاتك
+cvClearAll_en: Remove all
+cvClearAll_ar: إزالة الكل
+cvRemove_en: Remove {0}
+cvRemove_ar: إزالة {0}
+cvUp_en: Move up
+cvUp_ar: تحريك لأعلى
+cvDown_en: Move down
+cvDown_ar: تحريك لأسفل
+cvDetected_en: Detected from content: {0}
+cvDetected_ar: تم التعرف عليه من المحتوى: {0}
+cvKunknown_en: Unknown file
+cvKunknown_ar: ملف غير معروف
+cvKzip_en: ZIP archive
+cvKzip_ar: أرشيف ZIP
+cvKtxt_en: Text
+cvKtxt_ar: نص
+cvUnsup_en: Not supported
+cvUnsup_ar: غير مدعوم
+cvTooBig_en: Too big (limit {0} MB)
+cvTooBig_ar: حجمه كبير (الحد {0} م.ب)
+cvPages_en: {0} pages
+cvPages_ar: {0} صفحة
+cvWhere_en: Where to?
+cvWhere_ar: إلى أين؟
+cvWhereHint_en: Only conversions that work for these files are shown.
+cvWhereHint_ar: تظهر فقط التحويلات الممكنة لهذه الملفات.
+cvNoRoute_en: These files are different kinds, so no single conversion fits all of them. Remove some files.
+cvNoRoute_ar: هذه الملفات من أنواع مختلفة فلا يوجد تحويل واحد يناسبها كلها. أزل بعضها.
+cvNoFiles_en: Add a file to see where it can go.
+cvNoFiles_ar: أضف ملفًا لترى الوجهات الممكنة له.
+cvG_image_en: Images
+cvG_image_ar: الصور
+cvG_pdf_en: PDF
+cvG_pdf_ar: PDF
+cvG_doc_en: Documents
+cvG_doc_ar: المستندات
+cvG_data_en: Data and text
+cvG_data_ar: البيانات والنصوص
+cvOpts_en: Settings
+cvOpts_ar: الإعدادات
+cvO_size_en: Longest side
+cvO_size_ar: أطول ضلع
+cvO_orig_en: Original size
+cvO_orig_ar: الحجم الأصلي
+cvO_quality_en: Quality
+cvO_quality_ar: الجودة
+cvO_bg_en: Background for transparent areas
+cvO_bg_ar: خلفية المناطق الشفافة
+cvO_target_en: Make it fit a size limit
+cvO_target_ar: اجعله ضمن حد حجم معين
+cvO_targetKb_en: Maximum size (KB)
+cvO_targetKb_ar: الحجم الأقصى (ك.ب)
+cvO_targetHint_en: The Atlas lowers quality first, then shrinks the picture, and keeps the best result that fits.
+cvO_targetHint_ar: يخفض الأطلس الجودة أولًا ثم يصغّر الصورة، ويحتفظ بأفضل نتيجة ضمن الحد.
+cvO_page_en: Page size
+cvO_page_ar: حجم الصفحة
+cvO_fit_en: Fit each image
+cvO_fit_ar: على مقاس كل صورة
+cvO_a4_en: A4
+cvO_a4_ar: A4
+cvO_letter_en: Letter
+cvO_letter_ar: Letter
+cvO_orient_en: Orientation
+cvO_orient_ar: الاتجاه
+cvO_auto_en: Automatic
+cvO_auto_ar: تلقائي
+cvO_portrait_en: Portrait
+cvO_portrait_ar: طولي
+cvO_landscape_en: Landscape
+cvO_landscape_ar: عرضي
+cvO_margin_en: Margin (mm)
+cvO_margin_ar: الهامش (مم)
+cvO_pages_en: Pages
+cvO_pages_ar: الصفحات
+cvO_pagesPh_en: All pages, or e.g. 1-3, 5
+cvO_pagesPh_ar: كل الصفحات، أو مثل 1-3, 5
+cvO_dpi_en: Resolution
+cvO_dpi_ar: الدقة
+cvO_dpiV_en: {0} dpi
+cvO_dpiV_ar: {0} نقطة/بوصة
+cvO_maxdpi_en: Highest resolution allowed
+cvO_maxdpi_ar: أعلى دقة مسموحة
+cvO_marks_en: Add page markers
+cvO_marks_ar: أضف علامات الصفحات
+cvO_split_en: Split by
+cvO_split_ar: قسّم حسب
+cvO_splitEach_en: Every page
+cvO_splitEach_ar: كل صفحة
+cvO_splitEvery_en: Every N pages
+cvO_splitEvery_ar: كل N صفحات
+cvO_splitRanges_en: My own ranges
+cvO_splitRanges_ar: نطاقاتي الخاصة
+cvO_every_en: Pages per part
+cvO_every_ar: عدد الصفحات في الجزء
+cvO_rangesPh_en: 1-3; 4-6; 7
+cvO_rangesPh_ar: 1-3; 4-6; 7
+cvO_rangesHint_en: Separate parts with a semicolon.
+cvO_rangesHint_ar: افصل بين الأجزاء بفاصلة منقوطة.
+cvO_delim_en: Separator
+cvO_delim_ar: الفاصل
+cvO_comma_en: Comma ,
+cvO_comma_ar: فاصلة ,
+cvO_semi_en: Semicolon ;
+cvO_semi_ar: فاصلة منقوطة ;
+cvO_tab_en: Tab
+cvO_tab_ar: مسافة جدولة
+cvO_pipe_en: Pipe |
+cvO_pipe_ar: خط عمودي |
+cvO_bom_en: Add a UTF-8 mark (Excel then shows Arabic correctly)
+cvO_bom_ar: أضف علامة UTF-8 (ليعرض Excel العربية بشكل صحيح)
+cvO_sheets_en: Convert all sheets
+cvO_sheets_ar: حوّل كل الأوراق
+cvO_header_en: First row is the header
+cvO_header_ar: الصف الأول هو العناوين
+cvO_ico_en: Icon sizes
+cvO_ico_ar: أحجام الأيقونة
+cvO_organize_en: Pages
+cvO_organize_ar: الصفحات
+cvO_orgHint_en: Move pages, rotate them, or remove the ones you do not need.
+cvO_orgHint_ar: حرّك الصفحات أو أدرها أو احذف ما لا تحتاجه.
+cvO_rot_en: Rotate page {0}
+cvO_rot_ar: تدوير الصفحة {0}
+cvO_del_en: Remove page {0}
+cvO_del_ar: حذف الصفحة {0}
+cvO_restore_en: Restore page {0}
+cvO_restore_ar: استرجاع الصفحة {0}
+cvO_moveL_en: Move page {0} earlier
+cvO_moveL_ar: تقديم الصفحة {0}
+cvO_moveR_en: Move page {0} later
+cvO_moveR_ar: تأخير الصفحة {0}
+cvO_pageN_en: Page {0}
+cvO_pageN_ar: صفحة {0}
+cvO_keep_en: {0} of {1} pages will be saved
+cvO_keep_ar: {0} من {1} صفحة ستُحفظ
+cvO_print_en: A print window will open. Choose “Save as PDF” as the printer.
+cvO_print_ar: ستفتح نافذة الطباعة. اختر «حفظ بصيغة PDF» كطابعة.
+cvRun_en: Convert
+cvRun_ar: حوّل
+cvRunning_en: Working… {0} of {1}
+cvRunning_ar: جارٍ العمل… {0} من {1}
+cvCancel_en: Stop
+cvCancel_ar: إيقاف
+cvDone_en: Done
+cvDone_ar: تم
+cvDownload_en: Download
+cvDownload_ar: تنزيل
+cvDownloadAll_en: Download all (ZIP)
+cvDownloadAll_ar: تنزيل الكل (ZIP)
+cvSmaller_en: {0}% smaller
+cvSmaller_ar: أصغر بنسبة {0}%
+cvBigger_en: {0}% larger
+cvBigger_ar: أكبر بنسبة {0}%
+cvNoteFit_en: Fits the limit (quality {0}%, size {1}%)
+cvNoteFit_ar: ضمن الحد (الجودة {0}%، الحجم {1}%)
+cvNoteMiss_en: Could not reach the limit; this is the smallest result possible.
+cvNoteMiss_ar: تعذّر بلوغ الحد، وهذه أصغر نتيجة ممكنة.
+cvNotePdfFit_en: Fits the limit ({0} dpi, quality {1}%)
+cvNotePdfFit_ar: ضمن الحد ({0} نقطة/بوصة، الجودة {1}%)
+cvNoteOk_en: Fits the limit.
+cvNoteOk_ar: ضمن الحد.
+cvNoteParts_en: {0} files inside
+cvNoteParts_ar: {0} ملفات بداخله
+cvNoteEmpty_en: No text found. Scanned pages have no text layer.
+cvNoteEmpty_ar: لم يُعثر على نص. الصفحات الممسوحة ضوئيًا لا تحتوي طبقة نصية.
+cvCompare_en: Compare before and after
+cvCompare_ar: قارن قبل وبعد
+cvBefore_en: Before
+cvBefore_ar: قبل
+cvAfter_en: After
+cvAfter_ar: بعد
+cvAgain_en: Convert more files
+cvAgain_ar: حوّل ملفات أخرى
+cvPrintOpened_en: The print window is open. Choose “Save as PDF”.
+cvPrintOpened_ar: نافذة الطباعة مفتوحة. اختر «حفظ بصيغة PDF».
+cvFailed_en: Could not convert {0}: {1}
+cvFailed_ar: تعذّر تحويل {0}: {1}
+cvE_decode_en: This image could not be read.
+cvE_decode_ar: تعذّرت قراءة هذه الصورة.
+cvE_heic_en: HEIC photos can only be read by Safari. Export as JPG on your phone, or open this page in Safari.
+cvE_heic_ar: صور HEIC يقرؤها متصفح سفاري فقط. صدّرها بصيغة JPG من هاتفك أو افتح الصفحة في سفاري.
+cvE_password_en: This PDF is password-protected. Remove the password first.
+cvE_password_ar: ملف PDF هذا محمي بكلمة مرور. أزل كلمة المرور أولًا.
+cvE_pdf_en: This PDF is damaged or not supported.
+cvE_pdf_ar: ملف PDF هذا تالف أو غير مدعوم.
+cvE_range_en: Check the page numbers: they must exist in the file.
+cvE_range_ar: تحقق من أرقام الصفحات: يجب أن تكون موجودة في الملف.
+cvE_unsupported_en: This browser cannot write that format. Pick another one.
+cvE_unsupported_ar: هذا المتصفح لا يستطيع كتابة هذه الصيغة. اختر غيرها.
+cvE_lib_en: The PDF engine could not be loaded. Check your connection and try again.
+cvE_lib_ar: تعذّر تحميل محرك PDF. تحقق من اتصالك وحاول مرة أخرى.
+cvE_xml_en: The file looks damaged.
+cvE_xml_ar: يبدو الملف تالفًا.
+cvE_generic_en: Something went wrong with this file.
+cvE_generic_ar: حدث خطأ مع هذا الملف.
+cvE_count_en: Only the first 50 files were added.
+cvE_count_ar: أضيفت أول 50 ملفًا فقط.
+cvXray_en: Privacy X-ray
+cvXray_ar: كاشف الخصوصية
+cvXrayFound_en: Hidden data inside {0}
+cvXrayFound_ar: بيانات مخفية داخل {0}
+cvXrayGone_en: The converted file keeps none of it.
+cvXrayGone_ar: الملف المحوَّل لا يحتفظ بأي منها.
+cvGpsWarn_en: This photo reveals where it was taken.
+cvGpsWarn_ar: تكشف هذه الصورة مكان التقاطها.
+cvX_camera_en: Camera
+cvX_camera_ar: الكاميرا
+cvX_software_en: Software
+cvX_software_ar: البرنامج
+cvX_date_en: Date
+cvX_date_ar: التاريخ
+cvX_artist_en: Author
+cvX_artist_ar: المؤلف
+cvX_copyright_en: Copyright
+cvX_copyright_ar: حقوق النشر
+cvX_lens_en: Lens
+cvX_lens_ar: العدسة
+cvX_gps_en: GPS location
+cvX_gps_ar: موقع GPS
+cvX_other_en: Extra tags (XMP or text)
+cvX_other_ar: وسوم إضافية (XMP أو نص)
+cvX_title_en: Title
+cvX_title_ar: العنوان
+cvX_subject_en: Subject
+cvX_subject_ar: الموضوع
+cvX_keywords_en: Keywords
+cvX_keywords_ar: الكلمات المفتاحية
+cvX_creator_en: Created with
+cvX_creator_ar: أُنشئ بواسطة
+cvX_producer_en: Produced by
+cvX_producer_ar: أُنتج بواسطة
+cvX_created_en: Created
+cvX_created_ar: تاريخ الإنشاء
+cvX_modified_en: Modified
+cvX_modified_ar: تاريخ التعديل
+cvX_xmp_en: XMP packet
+cvX_xmp_ar: حزمة XMP
+cvX_yes_en: yes
+cvX_yes_ar: موجود
+cvr_img_png_en: PNG
+cvr_img_png_ar: PNG
+cvd_img_png_en: Lossless, keeps transparency.
+cvd_img_png_ar: بلا فقد في الجودة ويحفظ الشفافية.
+cvr_img_jpeg_en: JPG
+cvr_img_jpeg_ar: JPG
+cvd_img_jpeg_en: Small photos. Transparent areas get a background colour.
+cvd_img_jpeg_ar: صور صغيرة الحجم. المناطق الشفافة تأخذ لون خلفية.
+cvr_img_webp_en: WebP
+cvr_img_webp_ar: WebP
+cvd_img_webp_en: Modern, small, keeps transparency.
+cvd_img_webp_ar: حديثة وصغيرة وتحفظ الشفافية.
+cvr_img_avif_en: AVIF
+cvr_img_avif_ar: AVIF
+cvd_img_avif_en: Smallest files, if your browser can write it.
+cvd_img_avif_ar: أصغر حجم، إن كان متصفحك يدعم كتابتها.
+cvr_img_bmp_en: BMP
+cvr_img_bmp_ar: BMP
+cvd_img_bmp_en: Uncompressed, for old software.
+cvd_img_bmp_ar: غير مضغوطة، للبرامج القديمة.
+cvr_img_gif_en: GIF
+cvr_img_gif_ar: GIF
+cvd_img_gif_en: 256 colours, still image, simple transparency.
+cvd_img_gif_ar: 256 لونًا، صورة ثابتة، شفافية بسيطة.
+cvr_img_ico_en: ICO
+cvr_img_ico_ar: ICO
+cvd_img_ico_en: Windows icon with several sizes in one file.
+cvd_img_ico_ar: أيقونة ويندوز بعدة أحجام في ملف واحد.
+cvr_img_pdf_en: One PDF
+cvr_img_pdf_ar: ملف PDF واحد
+cvd_img_pdf_en: All images become pages of one PDF.
+cvd_img_pdf_ar: كل الصور تصبح صفحات في ملف PDF واحد.
+cvr_img_favicon_en: Favicon & app icons
+cvr_img_favicon_ar: أيقونات الموقع والتطبيق
+cvd_img_favicon_en: ZIP with favicon.ico, Apple icon, 192 and 512 PNG and the HTML tags.
+cvd_img_favicon_ar: ملف ZIP فيه favicon.ico وأيقونة آبل و192 و512 PNG وأكواد HTML.
+cvr_pdf_png_en: Pages → PNG
+cvr_pdf_png_ar: الصفحات ← PNG
+cvd_pdf_png_en: One sharp image per page.
+cvd_pdf_png_ar: صورة حادة لكل صفحة.
+cvr_pdf_jpeg_en: Pages → JPG
+cvr_pdf_jpeg_ar: الصفحات ← JPG
+cvd_pdf_jpeg_en: One small image per page.
+cvd_pdf_jpeg_ar: صورة صغيرة لكل صفحة.
+cvr_pdf_webp_en: Pages → WebP
+cvr_pdf_webp_ar: الصفحات ← WebP
+cvd_pdf_webp_en: One modern image per page.
+cvd_pdf_webp_ar: صورة حديثة لكل صفحة.
+cvr_pdf_text_en: Text (.txt)
+cvr_pdf_text_ar: نص (.txt)
+cvd_pdf_text_en: Extracts the text layer. Scanned pages have none.
+cvd_pdf_text_ar: يستخرج النص من الملف. الصفحات الممسوحة لا تحتويه.
+cvr_pdf_organize_en: Reorder, rotate, delete pages
+cvr_pdf_organize_ar: ترتيب الصفحات وتدويرها وحذفها
+cvd_pdf_organize_en: Arrange pages visually and save a new PDF.
+cvd_pdf_organize_ar: رتّب الصفحات بصريًا واحفظ ملفًا جديدًا.
+cvr_pdf_split_en: Split into parts
+cvr_pdf_split_ar: تقسيم إلى أجزاء
+cvd_pdf_split_en: By page, every N pages or your own ranges, as ZIP.
+cvd_pdf_split_ar: حسب الصفحة أو كل N صفحات أو نطاقاتك، في ZIP.
+cvr_pdf_merge_en: Merge into one PDF
+cvr_pdf_merge_ar: دمج في ملف PDF واحد
+cvd_pdf_merge_en: PDFs and images together, in your order.
+cvd_pdf_merge_ar: ملفات PDF وصور معًا بالترتيب الذي تريده.
+cvr_pdf_compress_en: Shrink to a size limit
+cvr_pdf_compress_ar: تصغير ضمن حد حجم
+cvd_pdf_compress_en: Redraws pages as images to fit a limit. Text stops being selectable.
+cvd_pdf_compress_ar: يعيد رسم الصفحات كصور لتناسب الحد. لن يمكن تحديد النص.
+cvr_pdf_clean_en: Remove hidden data
+cvr_pdf_clean_ar: إزالة البيانات المخفية
+cvd_pdf_clean_en: Deletes author, software and dates from the PDF.
+cvd_pdf_clean_ar: يحذف المؤلف والبرنامج والتواريخ من ملف PDF.
+cvr_docx_txt_en: Text (.txt)
+cvr_docx_txt_ar: نص (.txt)
+cvd_docx_txt_en: Headings, paragraphs, lists and tables as plain text.
+cvd_docx_txt_ar: العناوين والفقرات والقوائم والجداول كنص عادي.
+cvr_docx_md_en: Markdown (.md)
+cvr_docx_md_ar: Markdown (.md)
+cvd_docx_md_en: Keeps headings, bold, italic, lists and tables.
+cvd_docx_md_ar: يحافظ على العناوين والخط العريض والمائل والقوائم والجداول.
+cvr_docx_html_en: HTML
+cvr_docx_html_ar: HTML
+cvd_docx_html_en: A clean web page with the same structure.
+cvd_docx_html_ar: صفحة ويب نظيفة بنفس البنية.
+cvr_xlsx_csv_en: CSV
+cvr_xlsx_csv_ar: CSV
+cvd_xlsx_csv_en: Every sheet as a CSV file.
+cvd_xlsx_csv_ar: كل ورقة في ملف CSV.
+cvr_xlsx_json_en: JSON
+cvr_xlsx_json_ar: JSON
+cvd_xlsx_json_en: Rows become objects named by the header.
+cvd_xlsx_json_ar: الصفوف تصبح كائنات بأسماء من العناوين.
+cvr_pptx_txt_en: Text (.txt)
+cvr_pptx_txt_ar: نص (.txt)
+cvd_pptx_txt_en: All text, slide by slide.
+cvd_pptx_txt_ar: كل النصوص شريحة بشريحة.
+cvr_pptx_md_en: Markdown (.md)
+cvr_pptx_md_ar: Markdown (.md)
+cvd_pptx_md_en: Slide titles and bullet points.
+cvd_pptx_md_ar: عناوين الشرائح والنقاط.
+cvr_data_xlsx_en: Excel (.xlsx)
+cvr_data_xlsx_ar: Excel (.xlsx)
+cvd_data_xlsx_en: A real spreadsheet with a bold, frozen header.
+cvd_data_xlsx_ar: جدول بيانات حقيقي برأس عريض ثابت.
+cvr_data_json_en: JSON
+cvr_data_json_ar: JSON
+cvd_data_json_en: Rows become objects; numbers stay numbers.
+cvd_data_json_ar: الصفوف تصبح كائنات والأرقام تبقى أرقامًا.
+cvr_data_csv_en: CSV / TSV
+cvr_data_csv_ar: CSV / TSV
+cvd_data_csv_en: Choose the separator you need.
+cvd_data_csv_ar: اختر الفاصل الذي تحتاجه.
+cvr_md_html_en: HTML page
+cvr_md_html_ar: صفحة HTML
+cvd_md_html_en: Headings, lists, tables and links.
+cvd_md_html_ar: العناوين والقوائم والجداول والروابط.
+cvr_md_docx_en: Word (.docx)
+cvr_md_docx_ar: Word (.docx)
+cvd_md_docx_en: Opens in Word and Google Docs.
+cvd_md_docx_ar: يفتح في Word وGoogle Docs.
+cvr_txt_docx_en: Word (.docx)
+cvr_txt_docx_ar: Word (.docx)
+cvd_txt_docx_en: Plain text as a Word document.
+cvd_txt_docx_ar: النص العادي كمستند Word.
+cvr_html_txt_en: Text (.txt)
+cvr_html_txt_ar: نص (.txt)
+cvd_html_txt_en: The readable text of a web page.
+cvd_html_txt_ar: النص المقروء من صفحة الويب.
+cvr_print_pdf_en: PDF (selectable text)
+cvr_print_pdf_ar: PDF (نص قابل للتحديد)
+cvd_print_pdf_en: Opens your browser's Save-as-PDF dialog. Works for Arabic and every language.
+cvd_print_pdf_ar: يفتح نافذة الحفظ بصيغة PDF في متصفحك. يعمل مع العربية وكل اللغات.
+cvS_how_en: How it works
+cvS_how_ar: كيف يعمل
+cvHow1_en: Drop, choose or paste your files. The Atlas reads each file's real type from its content.
+cvHow1_ar: أسقط ملفاتك أو اخترها أو الصقها. يقرأ الأطلس النوع الحقيقي لكل ملف من محتواه.
+cvHow2_en: Pick a destination. Only conversions that work for your files appear, with the settings that matter for them.
+cvHow2_ar: اختر الوجهة. تظهر فقط التحويلات الممكنة لملفاتك مع الإعدادات المهمة لها.
+cvHow3_en: Press Convert and download. Everything happens inside your browser.
+cvHow3_ar: اضغط تحويل ثم نزّل النتيجة. كل شيء يحدث داخل متصفحك.
+cvS_feat_en: What makes it different
+cvS_feat_ar: ما الذي يميّزه
+cvF1t_en: Routes, not menus
+cvF1t_ar: مسارات لا قوائم
+cvF1d_en: The Atlas reads the real type of each file, then offers only the conversions that work. A PNG renamed to .jpg is still treated as a PNG.
+cvF1d_ar: يقرأ الأطلس النوع الحقيقي لكل ملف ثم يعرض التحويلات الممكنة فقط. صورة PNG أعيدت تسميتها إلى .jpg تبقى PNG.
+cvF2t_en: Shrink to an exact size
+cvF2t_ar: تصغير إلى حجم محدد
+cvF2d_en: Need a photo under 200 KB for a form, or a PDF under 1 MB for email? Type the limit and the Atlas finds the best quality that still fits.
+cvF2d_ar: تحتاج صورة أقل من 200 ك.ب لنموذج، أو PDF أقل من 1 م.ب لبريد؟ اكتب الحد ويجد الأطلس أفضل جودة تناسبه.
+cvF3t_en: Privacy X-ray
+cvF3t_ar: كاشف الخصوصية
+cvF3d_en: See the camera model, GPS position, author and software hidden inside a file, and know that the converted copy carries none of them.
+cvF3d_ar: شاهد طراز الكاميرا وموقع GPS واسم المؤلف والبرنامج المخفية داخل الملف، واعلم أن النسخة المحوّلة لا تحمل أيًّا منها.
+cvF4t_en: Scan pack
+cvF4t_ar: حزمة المسح
+cvF4d_en: Photos, scans and PDFs go into one PDF in the order you choose, with the page size you want.
+cvF4d_ar: الصور والمسوحات وملفات PDF تدخل في ملف PDF واحد بالترتيب الذي تختاره وبحجم الصفحة الذي تريده.
+cvF5t_en: Favicon and app-icon pack
+cvF5t_ar: حزمة أيقونات الموقع والتطبيق
+cvF5d_en: One logo becomes favicon.ico, an Apple touch icon, 192 and 512 PNG icons, a web manifest and the HTML tags.
+cvF5d_ar: شعار واحد يصبح favicon.ico وأيقونة آبل وأيقونات 192 و512 PNG وملف manifest وأكواد HTML.
+cvF6t_en: Nothing leaves your device
+cvF6t_ar: لا شيء يغادر جهازك
+cvF6d_en: Files are processed in your browser's memory. There is no upload, no account and nothing to delete afterwards.
+cvF6d_ar: تُعالج الملفات في ذاكرة متصفحك. لا رفع ولا حساب ولا شيء تحتاج إلى حذفه لاحقًا.
+cvS_table_en: Everything it can convert
+cvS_table_ar: كل ما يمكنه تحويله
+cvT_from_en: From
+cvT_from_ar: من
+cvT_to_en: To
+cvT_to_ar: إلى
+cvT_imgs_en: Images
+cvT_imgs_ar: الصور
+cvT_heic_en: HEIC can only be read in Safari.
+cvT_heic_ar: صيغة HEIC يقرؤها متصفح سفاري فقط.
+cvS_limits_en: Honest limits
+cvS_limits_ar: حدود صريحة
+cvLimits_en: Perfect Word-to-PDF and PDF-to-Word layouts need a desktop engine. The Atlas converts text, headings, lists and tables, and uses your browser's print dialog for a PDF with selectable text. “Shrink to a size limit” redraws PDF pages as images, so text stops being selectable. Password-protected PDFs must be unlocked first.
+cvLimits_ar: التحويل الدقيق بين Word وPDF بكل تنسيقه يحتاج محركًا مكتبيًا. يحوّل الأطلس النصوص والعناوين والقوائم والجداول، ويستخدم نافذة الطباعة في متصفحك لإنتاج PDF بنص قابل للتحديد. خيار «التصغير ضمن حد حجم» يعيد رسم صفحات PDF كصور فلا يمكن تحديد النص بعده. ملفات PDF المحمية بكلمة مرور يجب فتحها أولًا.
+cvS_faq_en: Questions
+cvS_faq_ar: أسئلة شائعة
+cvQ1_en: Are my files uploaded anywhere?
+cvQ1_ar: هل تُرفع ملفاتي إلى أي مكان؟
+cvA1_en: No. Conversion runs inside your browser. The only things downloaded are the page itself and, when you open a PDF, the PDF engine from this site.
+cvA1_ar: لا. يجري التحويل داخل متصفحك. الشيء الوحيد الذي يُنزَّل هو الصفحة نفسها، وعند فتح ملف PDF يُنزَّل محرك PDF من هذا الموقع.
+cvQ2_en: Why can't I convert HEIC photos?
+cvQ2_ar: لماذا لا أستطيع تحويل صور HEIC؟
+cvA2_en: Only Safari can read HEIC. In other browsers, export the photo as JPG on your phone first, or open this page in Safari.
+cvA2_ar: متصفح سفاري وحده يقرأ HEIC. في المتصفحات الأخرى صدّر الصورة بصيغة JPG من هاتفك أولًا، أو افتح هذه الصفحة في سفاري.
+cvQ3_en: Why does my JPG have a coloured background?
+cvQ3_ar: لماذا تظهر خلفية ملونة في صورة JPG؟
+cvA3_en: JPG and BMP cannot be transparent, so transparent areas are filled with the background colour you pick. PNG, WebP and GIF keep transparency.
+cvA3_ar: صيغتا JPG وBMP لا تدعمان الشفافية فتُملأ المناطق الشفافة بلون الخلفية الذي تختاره. أما PNG وWebP وGIF فتحفظ الشفافية.
+cvQ4_en: Can I convert PDF to Word?
+cvQ4_ar: هل يمكن تحويل PDF إلى Word؟
+cvA4_en: Not with the original layout. You can extract the text as .txt, then turn it into a Word file with the text-to-Word route. Scanned PDFs have no text to extract.
+cvA4_ar: ليس بالتنسيق الأصلي. يمكنك استخراج النص بصيغة .txt ثم تحويله إلى ملف Word عبر مسار النص إلى Word. ملفات PDF الممسوحة ضوئيًا لا تحتوي نصًا يمكن استخراجه.
+cvQ5_en: How does the size limit work?
+cvQ5_ar: كيف يعمل حد الحجم؟
+cvA5_en: The Atlas keeps your picture size and lowers quality first. If that is not enough it shrinks the picture in small steps and keeps the best result that fits your limit.
+cvA5_ar: يحافظ الأطلس على مقاس صورتك ويخفض الجودة أولًا. وإن لم يكفِ يصغّر الصورة بخطوات صغيرة ويحتفظ بأفضل نتيجة ضمن حدك.
+cvQ6_en: Is there a limit on file size?
+cvQ6_ar: هل هناك حد لحجم الملف؟
+cvA6_en: Each file can be up to 250 MB. Pictures above 16 megapixels are scaled down to stay within what browsers can draw, especially on phones.
+cvA6_ar: يمكن أن يصل حجم كل ملف إلى 250 م.ب. الصور التي تتجاوز 16 ميغابكسل تُصغَّر لتبقى ضمن ما تستطيع المتصفحات رسمه، خاصة على الهواتف.
+cvS_next_en: Keep going with AI tools
+cvS_next_ar: تابع بأدوات الذكاء الاصطناعي
+cvNextLead_en: Edit, restyle or upscale your images after converting them.
+cvNextLead_ar: حرّر صورك أو غيّر أسلوبها أو حسّن دقتها بعد تحويلها.

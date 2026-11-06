@@ -1,0 +1,29 @@
+# أداة: Midjourney
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 210
+name: Midjourney
+category: image
+website: https://www.midjourney.com/
+pricing_page: https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans
+platforms: web, discord
+goals: create, money
+level: 2
+free_plan: no
+open_source: no
+short_en: AI image generation from text prompts.
+short_ar: توليد صور بالذكاء الاصطناعي من أوامر نصية.
+long_en: Midjourney generates images, and short video, from text prompts through its website and Discord. All plans are paid subscriptions, starting at $10 a month.
+long_ar: تولّد Midjourney الصور ومقاطع فيديو قصيرة من أوامر نصية عبر موقعها وDiscord. كل الخطط اشتراكات مدفوعة، تبدأ من 10$ شهريًا.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans
+paid_from: $10/mo ($8/mo billed yearly)
+plan: Basic | $10/mo | $8/mo billed yearly; 3.3 fast GPU hours/month
+plan: Standard | $30/mo | $24/mo billed yearly; 15 fast hours; unlimited relaxed images
+plan: Pro | $60/mo | $48/mo billed yearly; 30 fast hours; unlimited relaxed images and SD video; Stealth Mode
+plan: Mega | $120/mo | $96/mo billed yearly; 60 fast hours; Stealth Mode
+plan: Usage rights |  | General commercial terms; companies above $1M gross revenue/year must use Pro or Mega

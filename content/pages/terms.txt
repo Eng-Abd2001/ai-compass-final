@@ -1,0 +1,39 @@
+# صفحة: Terms of Use
+# عدّل النصوص بعد النقطتين. كل text_en يقابله text_ar تحته. لإضافة فقرة أضف زوج text_en/text_ar، ولحذفها احذف الزوج.
+
+title_en: Terms of Use
+title_ar: شروط الاستخدام
+description_en: The ground rules for using AI Compass.
+description_ar: القواعد الأساسية لاستخدام AI Compass.
+order: 40
+show_email: no
+
+---
+heading_en: Information only
+heading_ar: معلومات فقط
+text_en: AI Compass provides general information. It is not legal, financial, medical or professional advice. Make important decisions with a qualified person.
+text_ar: يقدّم AI Compass معلومات عامة، وليس استشارة قانونية أو مالية أو طبية أو مهنية. اتخذ القرارات المهمة مع مختص.
+
+---
+heading_en: Accuracy
+heading_ar: الدقة
+text_en: Tool features, prices and policies change often. We document plans and prices from official sources with the check date shown, but we cannot guarantee that anything is current or complete at all times. Check the official page before you pay or decide.
+text_ar: تتغير ميزات الأدوات وأسعارها وسياساتها كثيرًا. نوثّق الخطط والأسعار من مصادرها الرسمية مع إظهار تاريخ الفحص، لكن لا نضمن أن تبقى كل التفاصيل مطابقة في كل لحظة. راجع الصفحة الرسمية للأداة قبل أن تدفع أو تقرر.
+
+---
+heading_en: No income promises
+heading_ar: لا وعود بالدخل
+text_en: Nothing here promises income, jobs or results. Examples describe possibilities and risks, not outcomes.
+text_ar: لا شيء هنا يعد بدخل أو وظائف أو نتائج. الأمثلة تصف الاحتمالات والمخاطر لا النتائج.
+
+---
+heading_en: Third parties
+heading_ar: أطراف أخرى
+text_en: Product names and logos belong to their owners. Listing a tool does not mean it endorses us or that we endorse it. We are not responsible for third-party sites.
+text_ar: أسماء المنتجات وشعاراتها ملك لأصحابها. إدراج أداة لا يعني تأييدها لنا ولا تأييدنا لها، ولسنا مسؤولين عن مواقع الأطراف الأخرى.
+
+---
+heading_en: Liability
+heading_ar: المسؤولية
+text_en: The site is provided as is. To the extent allowed by law, we are not liable for losses from using it.
+text_ar: يُقدَّم الموقع كما هو. وبالقدر الذي يسمح به القانون لا نتحمل مسؤولية الخسائر الناتجة عن استخدامه.

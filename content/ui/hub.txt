@@ -1,0 +1,681 @@
+# المختبر التفاعلي /en/hub و /ar/hub والشريط العائم — نصوص الواجهة. {0} {1} أماكن لقيم يضعها الموقع: أبقِها في مكانها.
+hbNav_en: Smart Hub
+hbNav_ar: المختبر التفاعلي
+hbH_en: Smart Utility Hub — 12 Instant Tools That Run in Your Browser
+hbH_ar: المختبر التفاعلي الشامل — 12 أداة فورية تعمل داخل متصفحك
+hbLead_en: Clean Arabic text, strip photo location data, make QR codes, split bills, decide with maths. Nothing is uploaded and no account is needed.
+hbLead_ar: نظّف النصوص العربية، امسح بيانات موقع الصور، اصنع رموز QR، قسّم الفواتير، واحسم قراراتك بالأرقام. لا رفع لأي شيء ولا حساب مطلوب.
+hbDesc_en: 12 free tools that work 100% in your browser: Arabic text cleaner, data extractor, text diff, photo privacy scrubber, QR and Wi-Fi studio, palette lab, code mockup maker, chat link builder, calorie and macro calculator, bill splitter, developer toolkit and decision matrix.
+hbDesc_ar: 12 أداة مجانية تعمل 100% داخل متصفحك: منظف النصوص العربية، مستخرج البيانات، مقارن النصوص، ماسح خصوصية الصور، استوديو QR والواي فاي، مختبر الألوان، صانع لقطات الكود، منشئ روابط المحادثة، حاسبة السعرات والماكروز، مقسّم الفواتير، أدوات المطور، ومصفوفة القرار.
+hbChip1_en: Runs on your device
+hbChip1_ar: تعمل على جهازك
+hbChip2_en: No sign-up
+hbChip2_ar: بلا تسجيل
+hbChip3_en: Arabic and English
+hbChip3_ar: عربي وإنجليزي
+hbFilter_en: Workspace
+hbFilter_ar: مساحة العمل
+hbM_all_en: All
+hbM_all_ar: الكل
+hbM_dev_en: Developer
+hbM_dev_ar: مبرمج
+hbM_creator_en: Creator
+hbM_creator_ar: صانع محتوى
+hbM_daily_en: Daily & Focus
+hbM_daily_ar: حياة وإنتاجية
+hbModeHint_en: Your choice moves the best tools to the front. Nothing is hidden.
+hbModeHint_ar: اختيارك يقدّم الأدوات الأنسب أولًا. لا شيء يُخفى.
+hbG_text_en: Text & data
+hbG_text_ar: النصوص والبيانات
+hbG_studio_en: Creator & privacy studio
+hbG_studio_ar: استوديو الصانع والخصوصية
+hbG_life_en: Daily life
+hbG_life_ar: الحياة اليومية
+hbG_dev_en: Dev & future lab
+hbG_dev_ar: المطور ومختبر المستقبل
+hbOpen_en: Open
+hbOpen_ar: افتح
+hbClose_en: Close
+hbClose_ar: إغلاق
+hbSponsored_en: Sponsored
+hbSponsored_ar: برعاية
+hbRecommended_en: Matches your workspace
+hbRecommended_ar: يناسب مساحتك
+hbCopy_en: Copy
+hbCopy_ar: نسخ
+hbCopied_en: Copied ✓
+hbCopied_ar: تم النسخ ✓
+hbPin_en: Pin to stash
+hbPin_ar: ثبّت في الحافظة
+hbPinned_en: Pinned ✓
+hbPinned_ar: تم التثبيت ✓
+hbDownload_en: Download
+hbDownload_ar: تنزيل
+hbClear_en: Clear
+hbClear_ar: مسح
+hbSample_en: Try a sample
+hbSample_ar: جرّب مثالًا
+hbResult_en: Result
+hbResult_ar: النتيجة
+hbSecKnow_en: How it works
+hbSecKnow_ar: كيف تعمل
+hbKnow_en: Every tool runs inside your browser with plain JavaScript. Your text, photos and numbers are never sent to a server, so they stay private. Pin any result to the stash and export everything in one text file.
+hbKnow_ar: كل أداة تعمل داخل متصفحك بجافاسكربت عادي. نصوصك وصورك وأرقامك لا تُرسل إلى أي خادم فتبقى خاصة. ثبّت أي نتيجة في الحافظة وصدّر الكل في ملف نصي واحد.
+hbNextTitle_en: More from AI Compass
+hbNextTitle_ar: المزيد من بوصلة الذكاء
+hbT_sanitizer_en: Smart Text Sanitizer
+hbT_sanitizer_ar: منظف النصوص الذكي
+hbD_sanitizer_en: Remove diacritics, unify hamza, switch digits, drop duplicate lines and time your voice-over for short videos.
+hbD_sanitizer_ar: أزل التشكيل ووحّد الهمزات وبدّل الأرقام واحذف الأسطر المكررة واحسب زمن إلقاء النص للفيديوهات القصيرة.
+hbT_sniper_en: Data Sniper
+hbT_sniper_ar: قناص البيانات
+hbD_sniper_en: Pull every email, link, phone number, hashtag or price out of a messy text in one click.
+hbD_sniper_ar: استخرج كل بريد ورابط ورقم هاتف وهاشتاغ وسعر من نص مبعثر بضغطة واحدة.
+hbT_diff_en: Instant Diff Checker
+hbT_diff_ar: مقارن النصوص الفوري
+hbD_diff_en: Compare two texts or code snippets side by side and see what was added, removed or changed.
+hbD_diff_ar: قارن نصين أو كودين جنبًا إلى جنب وشاهد ما أُضيف وما حُذف وما تغيّر.
+hbT_exif_en: Photo Privacy Scrubber
+hbT_exif_ar: ماسح خصوصية الصور
+hbD_exif_en: See the GPS position, phone and camera hidden in a photo, then download a clean copy.
+hbD_exif_ar: شاهد موقع GPS والهاتف والكاميرا المخفية في الصورة ثم نزّل نسخة نظيفة.
+hbT_qr_en: QR & Wi-Fi Studio
+hbT_qr_ar: استوديو QR والواي فاي
+hbD_qr_en: Coloured QR codes for links, contact cards and Wi-Fi login, as PNG or SVG.
+hbD_qr_ar: رموز QR ملوّنة للروابط وبطاقات الاتصال ودخول الواي فاي بصيغة PNG أو SVG.
+hbT_palette_en: Palette & Gradient Lab
+hbT_palette_ar: مختبر الألوان والتدرجات
+hbD_palette_en: Extract the 6 key colours of any picture and get HEX, CSS gradient and variables.
+hbD_palette_ar: استخرج أهم 6 ألوان من أي صورة واحصل على HEX وتدرّج CSS ومتغيرات جاهزة.
+hbT_mockup_en: Code & Quote Beautifier
+hbT_mockup_ar: مجمّل الكود والاقتباسات
+hbD_mockup_en: Turn code or a quote into a glass card with a gradient and download it for TikTok, Stories or YouTube.
+hbD_mockup_ar: حوّل كودًا أو اقتباسًا إلى بطاقة زجاجية متدرجة ونزّلها لتيك توك أو ستوري أو يوتيوب.
+hbT_chat_en: Direct Chat Link Builder
+hbT_chat_ar: منشئ روابط المحادثة
+hbD_chat_en: Open WhatsApp or Telegram with any number without saving it, or build a link with a ready message.
+hbD_chat_ar: افتح واتساب أو تيليجرام مع أي رقم دون حفظه، أو اصنع رابطًا برسالة جاهزة.
+hbT_calorie_en: Calorie & Macro Lab
+hbT_calorie_ar: مختبر السعرات والماكروز
+hbD_calorie_en: Daily calories, protein, carbs and fats for your goal, plus an interval timer for HIIT and Tabata.
+hbD_calorie_ar: السعرات اليومية والبروتين والكربوهيدرات والدهون لهدفك، مع مؤقت فترات لـ HIIT وتاباتا.
+hbT_budget_en: Budget & Bill Splitter
+hbT_budget_ar: ميزانية ومقسّم الفواتير
+hbD_budget_en: Split shared bills to the cent or divide your salary with the 50/30/20 rule.
+hbD_budget_ar: قسّم الفواتير المشتركة إلى آخر قرش أو وزّع راتبك بقاعدة 50/30/20.
+hbT_swiss_en: Dev Swiss Knife
+hbT_swiss_ar: سكين المطور السويسري
+hbD_swiss_en: Format JSON, convert to CSV, Base64 and URL encoding, passwords, UUID and SHA-256.
+hbD_swiss_ar: نسّق JSON وحوّله إلى CSV، وBase64 وترميز URL، وكلمات المرور وUUID وSHA-256.
+hbT_decision_en: Smart Decision Matrix
+hbT_decision_ar: مصفوفة القرار الذكية
+hbD_decision_en: Weigh your options by what matters to you and let the maths pick the best one.
+hbD_decision_ar: زِن خياراتك بحسب ما يهمك ودع الحساب يختار الأفضل.
+hbS_in_en: Your text
+hbS_in_ar: نصك
+hbS_ph_en: Paste Arabic or English text here…
+hbS_ph_ar: الصق نصًا عربيًا أو إنجليزيًا هنا…
+hbS_tashkeel_en: Remove diacritics (tashkeel)
+hbS_tashkeel_ar: إزالة التشكيل
+hbS_hamza_en: Unify alef forms (أ إ آ → ا)
+hbS_hamza_ar: توحيد الألف والهمزات (أ إ آ ← ا)
+hbS_yaa_en: Alef maqsura to yaa (ى → ي)
+hbS_yaa_ar: الألف المقصورة إلى ياء (ى ← ي)
+hbS_taa_en: Taa marbuta to haa (ة → ه)
+hbS_taa_ar: التاء المربوطة إلى هاء (ة ← ه)
+hbS_tatweel_en: Remove tatweel (ـــ)
+hbS_tatweel_ar: إزالة التطويل (ـــ)
+hbS_digits_en: Digits
+hbS_digits_ar: الأرقام
+hbS_dKeep_en: Keep as they are
+hbS_dKeep_ar: اتركها كما هي
+hbS_dWest_en: Arabic-Indic to Western (٣ → 3)
+hbS_dWest_ar: هندية إلى عربية غربية (٣ ← 3)
+hbS_dAr_en: Western to Arabic-Indic (3 → ٣)
+hbS_dAr_ar: غربية إلى هندية (3 ← ٣)
+hbS_spaces_en: Collapse spaces and blank lines
+hbS_spaces_ar: دمج المسافات والأسطر الفارغة
+hbS_dup_en: Remove duplicate lines
+hbS_dup_ar: حذف الأسطر المكررة
+hbS_words_en: Words
+hbS_words_ar: كلمات
+hbS_chars_en: Characters
+hbS_chars_ar: حروف
+hbS_lines_en: Lines
+hbS_lines_ar: أسطر
+hbS_sent_en: Sentences
+hbS_sent_ar: جمل
+hbS_time_en: Voice-over time
+hbS_time_ar: زمن الإلقاء
+hbS_pace_en: Pace
+hbS_pace_ar: السرعة
+hbS_calm_en: Calm (130 words/min)
+hbS_calm_ar: هادئة (130 كلمة/د)
+hbS_fast_en: Energetic (160 words/min)
+hbS_fast_ar: حماسية (160 كلمة/د)
+hbS_fits_en: Fits {0} s
+hbS_fits_ar: ضمن {0} ث
+hbS_over_en: Over {0} s by {1} s
+hbS_over_ar: يتجاوز {0} ث بمقدار {1} ث
+hbS_vid_en: Short-video check
+hbS_vid_ar: فحص الفيديو القصير
+hbS_sample_en: مُحَمَّدٌ ذَهَبَ إِلَى الْمَدْرَسَةِ ٣ مَرَّات.\nمُحَمَّدٌ ذَهَبَ إِلَى الْمَدْرَسَةِ ٣ مَرَّات.\nأحمد في الـمــــكتبة
+hbS_sample_ar: مُحَمَّدٌ ذَهَبَ إِلَى الْمَدْرَسَةِ ٣ مَرَّات.\nمُحَمَّدٌ ذَهَبَ إِلَى الْمَدْرَسَةِ ٣ مَرَّات.\nأحمد في الـمــــكتبة
+hbN_in_en: Messy text
+hbN_in_ar: النص المبعثر
+hbN_ph_en: Paste any long text…
+hbN_ph_ar: الصق أي نص طويل…
+hbN_email_en: Emails
+hbN_email_ar: البريد
+hbN_url_en: Links
+hbN_url_ar: الروابط
+hbN_phone_en: Phones
+hbN_phone_ar: الهواتف
+hbN_hashtag_en: Hashtags
+hbN_hashtag_ar: الهاشتاغات
+hbN_price_en: Prices
+hbN_price_ar: الأسعار
+hbN_unique_en: Unique only
+hbN_unique_ar: بدون تكرار
+hbN_found_en: {0} found
+hbN_found_ar: وُجد {0}
+hbN_none_en: Nothing found.
+hbN_none_ar: لم يُعثر على شيء.
+hbN_copyAll_en: Copy all
+hbN_copyAll_ar: نسخ الكل
+hbN_dl_en: Download .txt
+hbN_dl_ar: تنزيل .txt
+hbN_sample_en: Contact ali@example.com or sara@mail.co.uk, call +966 50 123 4567. Sale $12.50 and 99 USD! #deal https://example.com/shop
+hbN_sample_ar: تواصل مع ali@example.com أو sara@mail.co.uk واتصل على +966 50 123 4567. تخفيض $12.50 و99 USD! #عرض https://example.com/shop
+hbF_a_en: Original
+hbF_a_ar: الأصل
+hbF_b_en: Changed
+hbF_b_ar: المعدّل
+hbF_swap_en: Swap sides
+hbF_swap_ar: تبديل الجانبين
+hbF_case_en: Ignore case
+hbF_case_ar: تجاهل حالة الأحرف
+hbF_space_en: Ignore whitespace
+hbF_space_ar: تجاهل المسافات
+hbF_added_en: {0} added
+hbF_added_ar: {0} مضاف
+hbF_removed_en: {0} removed
+hbF_removed_ar: {0} محذوف
+hbF_changed_en: {0} changed
+hbF_changed_ar: {0} معدّل
+hbF_same_en: {0} unchanged
+hbF_same_ar: {0} دون تغيير
+hbF_big_en: Too large to compare in the browser (about 3,000 lines each at most).
+hbF_big_ar: أكبر من أن يُقارن في المتصفح (حتى 3000 سطر لكل جانب تقريبًا).
+hbF_identical_en: The two texts are identical.
+hbF_identical_ar: النصان متطابقان.
+hbF_only_en: Show only differences
+hbF_only_ar: أظهر الفروقات فقط
+hbF_sa_en: const price = 10;\nconsole.log(price);\nreturn price;
+hbF_sa_ar: const price = 10;\nconsole.log(price);\nreturn price;
+hbF_sb_en: const price = 12;\nconsole.log(price);\nconsole.log('done');\nreturn price;
+hbF_sb_ar: const price = 12;\nconsole.log(price);\nconsole.log('done');\nreturn price;
+hbE_pick_en: Choose a photo
+hbE_pick_ar: اختر صورة
+hbE_found_en: Hidden data found in this photo
+hbE_found_ar: بيانات مخفية في هذه الصورة
+hbE_none_en: No hidden data found. You can still re-save a clean copy.
+hbE_none_ar: لا توجد بيانات مخفية. يمكنك مع ذلك حفظ نسخة نظيفة.
+hbE_warn_en: This photo reveals where you were.
+hbE_warn_ar: هذه الصورة تكشف أين كنت.
+hbE_clean_en: Clean and download
+hbE_clean_ar: نظّف ونزّل
+hbE_done_en: Clean copy ready: {0} → {1}
+hbE_done_ar: النسخة النظيفة جاهزة: {0} ← {1}
+hbE_note_en: The clean copy is redrawn from the pixels, so every tag is gone and the picture is upright. Nothing is uploaded.
+hbE_note_ar: النسخة النظيفة تُعاد رسمها من البكسلات فتختفي كل الوسوم وتصبح الصورة معتدلة. لا يُرفع شيء.
+hbE_bad_en: This image could not be read.
+hbE_bad_ar: تعذّرت قراءة هذه الصورة.
+hbQ_type_en: Type
+hbQ_type_ar: النوع
+hbQ_text_en: Link or text
+hbQ_text_ar: رابط أو نص
+hbQ_wifi_en: Wi-Fi
+hbQ_wifi_ar: واي فاي
+hbQ_vcard_en: Contact card
+hbQ_vcard_ar: بطاقة اتصال
+hbQ_ssid_en: Network name
+hbQ_ssid_ar: اسم الشبكة
+hbQ_pass_en: Password
+hbQ_pass_ar: كلمة المرور
+hbQ_enc_en: Security
+hbQ_enc_ar: نوع الحماية
+hbQ_open_en: Open (no password)
+hbQ_open_ar: مفتوحة (بلا كلمة مرور)
+hbQ_hidden_en: Hidden network
+hbQ_hidden_ar: شبكة مخفية
+hbQ_first_en: First name
+hbQ_first_ar: الاسم الأول
+hbQ_last_en: Last name
+hbQ_last_ar: اسم العائلة
+hbQ_org_en: Company
+hbQ_org_ar: الشركة
+hbQ_title_en: Job title
+hbQ_title_ar: المسمى الوظيفي
+hbQ_phone_en: Phone
+hbQ_phone_ar: الهاتف
+hbQ_email_en: Email
+hbQ_email_ar: البريد
+hbQ_web_en: Website
+hbQ_web_ar: الموقع
+hbQ_fg_en: Dots colour
+hbQ_fg_ar: لون النقاط
+hbQ_bg_en: Background
+hbQ_bg_ar: الخلفية
+hbQ_ecl_en: Error correction
+hbQ_ecl_ar: تصحيح الأخطاء
+hbQ_eclHint_en: Higher survives scratches but looks denser.
+hbQ_eclHint_ar: الأعلى يتحمل الخدوش لكنه أكثر كثافة.
+hbQ_size_en: Image size (px)
+hbQ_size_ar: حجم الصورة (بكسل)
+hbQ_png_en: Download PNG
+hbQ_png_ar: تنزيل PNG
+hbQ_svg_en: Download SVG
+hbQ_svg_ar: تنزيل SVG
+hbQ_low_en: Low contrast: some phones may fail to scan this.
+hbQ_low_ar: التباين ضعيف: قد تفشل بعض الهواتف في مسحه.
+hbQ_long_en: Too much data for a QR code. Shorten it.
+hbQ_long_ar: بيانات أكثر من اللازم لرمز QR. اختصرها.
+hbQ_test_en: Always test-scan before you print.
+hbQ_test_ar: اختبر المسح دائمًا قبل الطباعة.
+hbQ_empty_en: Type something to create the code.
+hbQ_empty_ar: اكتب شيئًا لإنشاء الرمز.
+hbP_pick_en: Choose an image
+hbP_pick_ar: اختر صورة
+hbP_colors_en: Main colours
+hbP_colors_ar: الألوان الرئيسية
+hbP_angle_en: Gradient angle
+hbP_angle_ar: زاوية التدرّج
+hbP_css_en: CSS gradient
+hbP_css_ar: تدرّج CSS
+hbP_vars_en: CSS variables
+hbP_vars_ar: متغيرات CSS
+hbP_card_en: Live preview
+hbP_card_ar: معاينة حية
+hbP_cardTitle_en: Your brand card
+hbP_cardTitle_ar: بطاقة هويتك
+hbP_cardText_en: Colours taken from your picture in one click.
+hbP_cardText_ar: ألوان مأخوذة من صورتك بضغطة واحدة.
+hbP_btn_en: Get started
+hbP_btn_ar: ابدأ الآن
+hbP_copy_en: Copy {0}
+hbP_copy_ar: نسخ {0}
+hbK_mode_en: Mode
+hbK_mode_ar: الوضع
+hbK_code_en: Code
+hbK_code_ar: كود
+hbK_quote_en: Quote
+hbK_quote_ar: اقتباس
+hbK_in_en: Your code or quote
+hbK_in_ar: الكود أو الاقتباس
+hbK_title_en: Window title
+hbK_title_ar: عنوان النافذة
+hbK_author_en: Author
+hbK_author_ar: القائل
+hbK_theme_en: Theme
+hbK_theme_ar: الثيم
+hbK_ratio_en: Size
+hbK_ratio_ar: المقاس
+hbK_lines_en: Line numbers
+hbK_lines_ar: أرقام الأسطر
+hbK_font_en: Text size
+hbK_font_ar: حجم الخط
+hbK_dl_en: Download PNG
+hbK_dl_ar: تنزيل PNG
+hbK_preview_en: Preview
+hbK_preview_ar: معاينة
+hbK_r916_en: 9:16 · TikTok & Stories
+hbK_r916_ar: 9:16 · تيك توك وستوري
+hbK_r169_en: 16:9 · YouTube
+hbK_r169_ar: 16:9 · يوتيوب
+hbK_r11_en: 1:1 · Post
+hbK_r11_ar: 1:1 · منشور
+hbK_r45_en: 4:5 · Portrait
+hbK_r45_ar: 4:5 · بورتريه
+hbK_th_aurora_en: Aurora
+hbK_th_aurora_ar: شفق
+hbK_th_sunset_en: Sunset
+hbK_th_sunset_ar: غروب
+hbK_th_ocean_en: Ocean
+hbK_th_ocean_ar: محيط
+hbK_th_forest_en: Forest
+hbK_th_forest_ar: غابة
+hbK_th_candy_en: Candy
+hbK_th_candy_ar: حلوى
+hbK_th_midnight_en: Midnight
+hbK_th_midnight_ar: منتصف الليل
+hbK_sampleCode_en: function greet(name) {\n  const msg = `Hello, ${name}!`;\n  return msg.toUpperCase(); // loud\n}
+hbK_sampleCode_ar: function greet(name) {\n  const msg = `Hello, ${name}!`;\n  return msg.toUpperCase(); // loud\n}
+hbK_sampleQuote_en: The best way to predict the future is to build it.
+hbK_sampleQuote_ar: أفضل طريقة للتنبؤ بالمستقبل هي أن تصنعه.
+hbC_wa_en: WhatsApp
+hbC_wa_ar: واتساب
+hbC_tg_en: Telegram
+hbC_tg_ar: تيليجرام
+hbC_country_en: Country
+hbC_country_ar: الدولة
+hbC_number_en: Phone number
+hbC_number_ar: رقم الهاتف
+hbC_numPh_en: e.g. 0501234567 or +44 7700 900123
+hbC_numPh_ar: مثل 0501234567 أو ‎+44 7700 900123
+hbC_msg_en: Ready message (optional)
+hbC_msg_ar: رسالة جاهزة (اختياري)
+hbC_link_en: Your link
+hbC_link_ar: رابطك
+hbC_open_en: Open chat
+hbC_open_ar: افتح المحادثة
+hbC_invalid_en: Enter a valid number (8 to 15 digits).
+hbC_invalid_ar: أدخل رقمًا صحيحًا (من 8 إلى 15 رقمًا).
+hbC_by_en: Open by
+hbC_by_ar: الفتح عبر
+hbC_byPhone_en: Phone number
+hbC_byPhone_ar: رقم الهاتف
+hbC_byUser_en: Username
+hbC_byUser_ar: اسم المستخدم
+hbC_user_en: Telegram username
+hbC_user_ar: اسم مستخدم تيليجرام
+hbC_userBad_en: Usernames have 5 to 32 letters, digits or underscores.
+hbC_userBad_ar: اسم المستخدم من 5 إلى 32 حرفًا أو رقمًا أو شرطة سفلية.
+hbC_toQr_en: Make a QR code of this link
+hbC_toQr_ar: اصنع رمز QR لهذا الرابط
+hbC_full_en: Full number: +{0}
+hbC_full_ar: الرقم الكامل: ‎+{0}
+hbL_sex_en: Sex
+hbL_sex_ar: الجنس
+hbL_male_en: Male
+hbL_male_ar: ذكر
+hbL_female_en: Female
+hbL_female_ar: أنثى
+hbL_age_en: Age
+hbL_age_ar: العمر
+hbL_weight_en: Weight
+hbL_weight_ar: الوزن
+hbL_height_en: Height
+hbL_height_ar: الطول
+hbL_units_en: Units
+hbL_units_ar: الوحدات
+hbL_metric_en: kg / cm
+hbL_metric_ar: كجم / سم
+hbL_imperial_en: lb / in
+hbL_imperial_ar: رطل / بوصة
+hbL_act_en: Activity
+hbL_act_ar: النشاط
+hbL_a1_en: Sedentary (desk job)
+hbL_a1_ar: خامل (عمل مكتبي)
+hbL_a2_en: Light (1-3 workouts a week)
+hbL_a2_ar: خفيف (1-3 تمارين أسبوعيًا)
+hbL_a3_en: Moderate (3-5 a week)
+hbL_a3_ar: متوسط (3-5 أسبوعيًا)
+hbL_a4_en: Heavy (6-7 a week)
+hbL_a4_ar: مرتفع (6-7 أسبوعيًا)
+hbL_a5_en: Athlete (twice a day)
+hbL_a5_ar: رياضي (مرتان يوميًا)
+hbL_goal_en: Goal
+hbL_goal_ar: الهدف
+hbL_lose_en: Lose fat (-20%)
+hbL_lose_ar: خسارة دهون (-20%)
+hbL_keep_en: Maintain
+hbL_keep_ar: ثبات الوزن
+hbL_gain_en: Build muscle (+10%)
+hbL_gain_ar: بناء عضل (+10%)
+hbL_bmr_en: Resting burn (BMR)
+hbL_bmr_ar: الحرق وقت الراحة (BMR)
+hbL_tdee_en: Daily burn (TDEE)
+hbL_tdee_ar: الحرق اليومي (TDEE)
+hbL_target_en: Your daily target
+hbL_target_ar: هدفك اليومي
+hbL_protein_en: Protein
+hbL_protein_ar: بروتين
+hbL_carbs_en: Carbs
+hbL_carbs_ar: كربوهيدرات
+hbL_fat_en: Healthy fats
+hbL_fat_ar: دهون صحية
+hbL_water_en: Water
+hbL_water_ar: الماء
+hbL_bmi_en: BMI
+hbL_bmi_ar: مؤشر الكتلة
+hbL_kcal_en: kcal
+hbL_kcal_ar: سعرة
+hbL_floor_en: The target was raised to a safe minimum.
+hbL_floor_ar: رُفع الهدف إلى حد أدنى آمن.
+hbL_disc_en: An estimate for healthy adults, not medical advice.
+hbL_disc_ar: تقدير للبالغين الأصحاء وليس نصيحة طبية.
+hbL_timer_en: Interval timer (HIIT / Tabata)
+hbL_timer_ar: مؤقت الفترات (HIIT / تاباتا)
+hbL_work_en: Work (s)
+hbL_work_ar: العمل (ث)
+hbL_rest_en: Rest (s)
+hbL_rest_ar: الراحة (ث)
+hbL_rounds_en: Rounds
+hbL_rounds_ar: الجولات
+hbL_tabata_en: Tabata 20/10 x8
+hbL_tabata_ar: تاباتا 20/10 × 8
+hbL_hiit_en: HIIT 40/20 x10
+hbL_hiit_ar: HIIT 40/20 × 10
+hbL_pWork_en: WORK
+hbL_pWork_ar: اعمل
+hbL_pRest_en: REST
+hbL_pRest_ar: استرح
+hbL_pDone_en: Done!
+hbL_pDone_ar: انتهى!
+hbL_pPrep_en: Get ready
+hbL_pPrep_ar: استعد
+hbL_round_en: Round {0} of {1}
+hbL_round_ar: الجولة {0} من {1}
+hbL_start_en: Start
+hbL_start_ar: ابدأ
+hbL_pause_en: Pause
+hbL_pause_ar: إيقاف مؤقت
+hbL_reset_en: Reset
+hbL_reset_ar: إعادة
+hbB_split_en: Bill splitter
+hbB_split_ar: مقسّم الفواتير
+hbB_salary_en: Salary plan
+hbB_salary_ar: خطة الراتب
+hbB_total_en: Bill total
+hbB_total_ar: إجمالي الفاتورة
+hbB_tip_en: Tip (%)
+hbB_tip_ar: البقشيش (%)
+hbB_people_en: People
+hbB_people_ar: عدد الأشخاص
+hbB_name_en: Person {0}
+hbB_name_ar: الشخص {0}
+hbB_weight_en: Share weight
+hbB_weight_ar: وزن الحصة
+hbB_each_en: Each pays
+hbB_each_ar: يدفع كل شخص
+hbB_grand_en: Total with tip
+hbB_grand_ar: الإجمالي مع البقشيش
+hbB_tipAmt_en: Tip
+hbB_tipAmt_ar: البقشيش
+hbB_income_en: Monthly income
+hbB_income_ar: الدخل الشهري
+hbB_rule_en: Rule
+hbB_rule_ar: القاعدة
+hbB_needs_en: Needs
+hbB_needs_ar: احتياجات
+hbB_wants_en: Wants
+hbB_wants_ar: رغبات
+hbB_save_en: Savings
+hbB_save_ar: ادخار
+hbB_custom_en: Custom
+hbB_custom_ar: مخصصة
+hbB_sum_en: Percentages must add up to 100 (now {0}).
+hbB_sum_ar: النسب يجب أن يكون مجموعها 100 (الآن {0}).
+hbB_cur_en: Currency
+hbB_cur_ar: العملة
+hbW_json_en: JSON
+hbW_json_ar: JSON
+hbW_csv_en: JSON → CSV
+hbW_csv_ar: JSON ← CSV
+hbW_b64_en: Base64
+hbW_b64_ar: Base64
+hbW_url_en: URL
+hbW_url_ar: URL
+hbW_pw_en: Passwords & UUID
+hbW_pw_ar: كلمات المرور وUUID
+hbW_hash_en: SHA-256
+hbW_hash_ar: SHA-256
+hbW_format_en: Format
+hbW_format_ar: تنسيق
+hbW_minify_en: Minify
+hbW_minify_ar: ضغط
+hbW_sort_en: Sort keys
+hbW_sort_ar: ترتيب المفاتيح
+hbW_valid_en: Valid JSON ✓
+hbW_valid_ar: JSON سليم ✓
+hbW_err_en: Error at line {0}, column {1}
+hbW_err_ar: خطأ في السطر {0}، العمود {1}
+hbW_enc_en: Encode
+hbW_enc_ar: ترميز
+hbW_dec_en: Decode
+hbW_dec_ar: فك الترميز
+hbW_urlsafe_en: URL-safe
+hbW_urlsafe_ar: آمن للروابط
+hbW_in_en: Input
+hbW_in_ar: المُدخل
+hbW_out_en: Output
+hbW_out_ar: الناتج
+hbW_len_en: Length
+hbW_len_ar: الطول
+hbW_lower_en: a-z
+hbW_lower_ar: a-z
+hbW_upper_en: A-Z
+hbW_upper_ar: A-Z
+hbW_digits_en: 0-9
+hbW_digits_ar: 0-9
+hbW_symbols_en: !@#
+hbW_symbols_ar: !@#
+hbW_amb_en: Avoid look-alike characters (I l 1 O 0)
+hbW_amb_ar: تجنّب الأحرف المتشابهة (I l 1 O 0)
+hbW_gen_en: Generate
+hbW_gen_ar: ولّد
+hbW_bits_en: {0} bits
+hbW_bits_ar: {0} بت
+hbW_s0_en: Weak
+hbW_s0_ar: ضعيفة
+hbW_s1_en: Fair
+hbW_s1_ar: مقبولة
+hbW_s2_en: Strong
+hbW_s2_ar: قوية
+hbW_s3_en: Excellent
+hbW_s3_ar: ممتازة
+hbW_uuid_en: UUID v4
+hbW_uuid_ar: UUID v4
+hbW_hashHint_en: Computed on your device.
+hbW_hashHint_ar: يُحسب على جهازك.
+hbW_delim_en: Separator
+hbW_delim_ar: الفاصل
+hbW_bad_en: Could not decode this input.
+hbW_bad_ar: تعذّر فك ترميز هذا المُدخل.
+hbD_opts_en: Options
+hbD_opts_ar: الخيارات
+hbD_crits_en: Criteria
+hbD_crits_ar: المعايير
+hbD_add_en: Add
+hbD_add_ar: إضافة
+hbD_remove_en: Remove
+hbD_remove_ar: حذف
+hbD_optName_en: Option {0}
+hbD_optName_ar: الخيار {0}
+hbD_critName_en: Criterion {0}
+hbD_critName_ar: المعيار {0}
+hbD_weight_en: Importance (1-5)
+hbD_weight_ar: الأهمية (1-5)
+hbD_benefit_en: Higher is better
+hbD_benefit_ar: الأعلى أفضل
+hbD_cost_en: Lower is better
+hbD_cost_ar: الأقل أفضل
+hbD_score_en: Score (1-10)
+hbD_score_ar: الدرجة (1-10)
+hbD_winner_en: Best choice
+hbD_winner_ar: الخيار الأفضل
+hbD_margin_en: Ahead by {0} points
+hbD_margin_ar: متقدم بـ {0} نقطة
+hbD_tie_en: It is a tie. Change the weights or scores.
+hbD_tie_ar: تعادل. غيّر الأوزان أو الدرجات.
+hbD_preset_en: Load an example
+hbD_preset_ar: حمّل مثالًا
+hbD_ex1_en: Choose a laptop
+hbD_ex1_ar: اختيار لابتوب
+hbD_ex2_en: Job offers
+hbD_ex2_ar: عروض عمل
+hbD_cCost_en: Cost
+hbD_cCost_ar: التكلفة
+hbD_cTime_en: Time
+hbD_cTime_ar: الوقت
+hbD_cBenefit_en: Benefit
+hbD_cBenefit_ar: الفائدة
+hbD_cEase_en: Ease
+hbD_cEase_ar: السهولة
+hbD_total_en: Score
+hbD_total_ar: النتيجة
+hbD_max_en: Up to 6 options and 6 criteria.
+hbD_max_ar: حتى 6 خيارات و6 معايير.
+dkPalette_en: Search (Ctrl+K)
+dkPalette_ar: بحث (Ctrl+K)
+dkSearch_en: Search the site and tools
+dkSearch_ar: ابحث في الموقع والأدوات
+dkPh_en: Type a page, tool or action…
+dkPh_ar: اكتب صفحة أو أداة أو أمرًا…
+dkPages_en: Pages
+dkPages_ar: الصفحات
+dkHub_en: Smart tools
+dkHub_ar: الأدوات الذكية
+dkAI_en: AI tools
+dkAI_ar: أدوات الذكاء الاصطناعي
+dkActions_en: Actions
+dkActions_ar: أوامر
+dkNone_en: No match. Try another word.
+dkNone_ar: لا نتائج. جرّب كلمة أخرى.
+dkHint_en: ↑↓ move · Enter open · Esc close
+dkHint_ar: ↑↓ تنقّل · Enter فتح · Esc إغلاق
+dkHome_en: Home
+dkHome_ar: الرئيسية
+dkAcademy_en: Academy
+dkAcademy_ar: الأكاديمية
+dkToolsDir_en: AI tools directory
+dkToolsDir_ar: دليل أدوات الذكاء الاصطناعي
+dkStash_en: Open my stash
+dkStash_ar: افتح حافظتي
+dkMode_en: Workspace: {0}
+dkMode_ar: مساحة العمل: {0}
+stTitle_en: My stash
+stTitle_ar: حافظتي
+stEmpty_en: Nothing here yet. Pin a result from any tool or a prompt and it will wait for you here.
+stEmpty_ar: لا شيء هنا بعد. ثبّت نتيجة من أي أداة أو برومبت وستنتظرك هنا.
+stExport_en: Export all (.txt)
+stExport_ar: تصدير الكل (.txt)
+stClear_en: Clear all
+stClear_ar: مسح الكل
+stDelete_en: Delete
+stDelete_ar: حذف
+stItems_en: {0} items
+stItems_ar: {0} عناصر
+stOpen_en: Open my stash
+stOpen_ar: افتح حافظتي
+stFrom_en: From {0}
+stFrom_ar: من {0}
+stSaved_en: Saved on this device only.
+stSaved_ar: محفوظة على هذا الجهاز فقط.
+stConfirm_en: Delete everything in the stash?
+stConfirm_ar: هل تحذف كل ما في الحافظة؟
+stCopy_en: Copy
+stCopy_ar: نسخ
+hbSearch_en: Search tools
+hbSearch_ar: ابحث في الأدوات
+hbSearchPh_en: Search the 12 tools…
+hbSearchPh_ar: ابحث في الأدوات الـ12…
+hbNoMatch_en: No tool matches. Try another word.
+hbNoMatch_ar: لا توجد أداة مطابقة. جرّب كلمة أخرى.
+hbCount_en: {0} tools
+hbCount_ar: {0} أدوات
+hbLoading_en: Loading the tool…
+hbLoading_ar: جارٍ تحميل الأداة…
+hbResults_en: {0} results
+hbResults_ar: {0} نتائج

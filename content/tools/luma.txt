@@ -1,0 +1,29 @@
+# أداة: Luma (Dream Machine)
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 140
+name: Luma (Dream Machine)
+category: video
+website: https://lumalabs.ai/
+pricing_page: https://lumalabs.ai/app
+platforms: web
+goals: create
+level: 1
+free_plan: unknown
+open_source: no
+short_en: AI image, video and audio creation on one canvas.
+short_ar: إنشاء صور وفيديو وصوت بالذكاء الاصطناعي على لوحة واحدة.
+long_en: Luma is an AI creative workspace that generates and edits images, video and audio on an infinite canvas, with agents that pick the right model for each task. Plans are credit-based.
+long_ar: Luma مساحة إبداعية بالذكاء الاصطناعي تولّد الصور والفيديو والصوت وتحرّرها على لوحة لا نهائية، مع وكلاء يختارون النموذج المناسب لكل مهمة. الخطط قائمة على الأرصدة.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://lumalabs.ai/app
+paid_from: $30/mo ($25/mo billed yearly)
+plan: Plus | $30/mo | $25/mo billed yearly; 10,000 credits
+plan: Pro | $90/mo | $75/mo billed yearly; 40,000 credits
+plan: Ultra | $300/mo | $250/mo billed yearly; 150,000 credits
+plan: Team / Enterprise | Contact sales
+plan: Free trial |  | Offered ('Try for free'); terms not listed on the page

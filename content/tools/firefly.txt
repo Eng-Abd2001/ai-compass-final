@@ -1,0 +1,30 @@
+# أداة: Adobe Firefly
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 240
+name: Adobe Firefly
+category: image
+website: https://www.adobe.com/creativecloud/plans.html
+pricing_page: https://www.adobe.com/creativecloud/plans.html
+platforms: web, desktop, ipad
+goals: create
+level: 1
+free_plan: unknown
+open_source: no
+short_en: Adobe's generative AI for images and design.
+short_ar: الذكاء الاصطناعي التوليدي من Adobe للصور والتصميم.
+long_en: Adobe Firefly is Adobe's generative AI for images, video and audio, sold with credit-based plans. On Adobe's official plans page the Firefly plans run from Standard to Premium, and Firefly credits are also included in Creative Cloud plans such as Creative Cloud Pro.
+long_ar: Adobe Firefly هو الذكاء الاصطناعي التوليدي من Adobe للصور والفيديو والصوت، ويُباع بخطط قائمة على الأرصدة. في صفحة الخطط الرسمية لـ Adobe تمتد خطط Firefly من Standard إلى Premium، كما تتضمن خطط Creative Cloud مثل Creative Cloud Pro أرصدة Firefly.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://www.adobe.com/creativecloud/plans.html
+paid_from: US$9.99/mo (Firefly Standard)
+plan: Firefly Standard | US$9.99/mo | 2,000 credits to create video, audio and images
+plan: Firefly Pro | US$19.99/mo | 4,000 credits; Photoshop on web and mobile; Adobe Express Premium
+plan: Firefly Pro Plus | US$49.99/mo | 10,000 credits; promo of US$34.97/mo for the first year, ending Oct 21
+plan: Firefly Premium | US$199.99/mo | 50,000 credits; promo of US$139.91/mo for the first year, ending Oct 21
+plan: Creative Cloud Pro | US$69.99/mo | 20+ apps including Photoshop plus Firefly; promo of US$34.99/mo for the first 3 months (new subscribers)
+plan: Billing |  | Prices are the US store view and exclude local taxes; the promotions on the page are time-limited. A free Firefly plan is not described on this page

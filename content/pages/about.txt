@@ -1,0 +1,26 @@
+title_en: About AI Compass
+title_ar: عن AI Compass
+description_en: What AI Compass is and how it earns trust.
+description_ar: ما هو AI Compass وكيف يكسب الثقة.
+order: 10
+show_email: no
+
+---
+heading_en: What it is
+heading_ar: ما هو
+text_en: AI Compass helps you understand AI, choose tools that fit your goal, budget and device, and plan what to learn next.
+text_ar: يساعدك AI Compass على فهم الذكاء الاصطناعي واختيار الأدوات المناسبة لهدفك وميزانيتك وجهازك وتخطيط ما تتعلمه بعد ذلك.
+
+---
+heading_en: How we keep it honest
+heading_ar: كيف نحافظ على الصدق
+text_en: We do not invent prices, reviews, user counts, earnings or scores. All tool plans and pricing details are documented from official sources.
+text_ar: لا نختلق أسعارًا ولا تقييمات ولا أعداد مستخدمين ولا أرباحًا ولا درجات. جميع خطط وأسعار الأدوات موثقة ومراجعة من مصادرها الرسمية.
+text_en: Recommendations come from visible rules, and each tool page explains how its fit is scored.
+text_ar: التوصيات تأتي من قواعد ظاهرة، وصفحة كل أداة تشرح كيف تُحتسب ملاءمتها.
+
+---
+heading_en: Independence
+heading_ar: الاستقلالية
+text_en: Tools are listed because they are useful, not because they pay. Any sponsored or affiliate content is labeled, as described in the Affiliate Disclosure.
+text_ar: تُعرض الأدوات لأنها مفيدة لا لأنها تدفع. وأي محتوى مدعوم أو بروابط إحالة يُوسم كما في إفصاح روابط الإحالة.

@@ -1,0 +1,32 @@
+# أداة: Hugging Face
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 100
+name: Hugging Face
+category: open-models
+website: https://huggingface.co/
+pricing_page: https://huggingface.co/pricing
+platforms: web
+goals: build, learn
+level: 3
+free_plan: yes
+open_source: yes
+short_en: Hub for open models, datasets and demos.
+short_ar: مركز للنماذج المفتوحة والبيانات والعروض.
+long_en: Hugging Face is the hub for open machine-learning models, datasets and Spaces (hosted demo apps). Signing up is free; PRO adds storage, ZeroGPU quota and monthly inference credits, Team and Enterprise add organization features, and compute (Spaces hardware, Inference Endpoints) is billed by the hour.
+long_ar: Hugging Face هو المركز المفتوح للنماذج وقواعد البيانات وSpaces (تطبيقات العرض المستضافة) في تعلّم الآلة. التسجيل مجاني؛ وتضيف PRO مساحة تخزين وحصة ZeroGPU وأرصدة استدلال شهرية، وتضيف Team وEnterprise ميزات المؤسسات، ويُحتسب الحوسبة (عتاد Spaces وInference Endpoints) بالساعة.
+limit_en: Overwhelming for beginners.
+limit_ar: مربك للمبتدئين.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://huggingface.co/pricing
+paid_from: $9/mo (PRO)
+plan: Free account | $0 | Hub access; Spaces on CPU Basic and ZeroGPU are free
+plan: PRO | $9/mo | 10x private and 2x public storage; $2 of inference credits monthly; 8x ZeroGPU quota; PRO badge
+plan: Team | $20/user/mo | SSO (SAML, OIDC), audit logs, resource groups, analytics; all members get PRO compute benefits
+plan: Enterprise | $50/user/mo | Everything in Team; SCIM; highest limits; dedicated support
+plan: Spaces hardware | From $0 | CPU Basic and ZeroGPU are free; paid GPUs start at $0.40/hour (T4 small)
+plan: Inference Endpoints | From $0.033/hour | Dedicated, autoscaling inference
+plan: Storage | From $12/TB/mo | Volume-based per-TB pricing; $18/TB/mo for private repositories at base volume; discounts at higher volumes
+plan: Billing |  | Plan prices are per month; compute is billed by the hour

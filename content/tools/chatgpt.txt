@@ -1,0 +1,31 @@
+# أداة: ChatGPT
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 10
+name: ChatGPT
+category: assistant
+website: https://openai.com/chatgpt/
+pricing_page: https://chatgpt.com/pricing/
+platforms: web, ios, android
+goals: learn, money, build, automate, create, study
+level: 1
+free_plan: yes
+open_source: no
+short_en: General-purpose assistant for writing, analysis and learning.
+short_ar: مساعد عام للكتابة والتحليل والتعلّم.
+long_en: ChatGPT is OpenAI's AI assistant for writing, analysis, coding help, image creation, voice chats and research, available on web, iOS and Android. It has a Free plan and paid plans (Go, Plus, Pro) with higher limits and more advanced tools such as Codex and deep research; teams use Business and Enterprise.
+long_ar: ChatGPT مساعد الذكاء الاصطناعي من OpenAI للكتابة والتحليل والمساعدة في البرمجة وإنشاء الصور والمحادثات الصوتية والبحث، ويعمل على الويب وiOS وAndroid. له خطة مجانية وخطط مدفوعة (Go وPlus وPro) بحدود أعلى وأدوات أكثر تقدمًا مثل Codex والبحث المعمّق، وتستخدم الفرق خطتي Business وEnterprise.
+limit_en: Plans and limits change often.
+limit_ar: الخطط والحدود تتغيّر كثيرًا.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://openai.com/chatgpt/pricing
+paid_from: $20/mo
+plan: Free | $0 | Unlimited text chats with basic limits
+plan: Plus | $20/mo | Advanced reasoning, higher limits, image creation
+# صفوف إضافية وثّقتُها من الصفحة الرسمية في 2026-10-06 (أزل # لتفعيلها):
+# plan: Go | Shown at checkout | More messages, uploads, images and voice chats; longer memory; may include ads
+# plan: Pro | Shown at checkout (from) | Three usage tiers; unlimited and faster image creation; maximum deep research
+# plan: Business | Per user per month | From 2 users; monthly or annual billing
+# plan: Enterprise | Contact sales | Annual billing; SSO, SCIM and admin controls

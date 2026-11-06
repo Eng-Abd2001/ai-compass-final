@@ -1,0 +1,121 @@
+# ============================================================================
+#  إعدادات الإعلانات — الملف الوحيد الذي تُضبط منه الإعلانات (الموقع كله يقرأ منه فقط).
+# ============================================================================
+
+enabled: yes
+consent_required: no
+label_en: Advertisement
+label_ar: إعلان
+allow_domains: https://www.highrevenueformat.com, https://highrevenueformat.com, https://www.highperformanceformat.com, https://highperformanceformat.com, https://pagead2.googlesyndication.com, https://googleads.g.doubleclick.net, https://tpc.googlesyndication.com, https://fundingchoicesmessages.google.com
+
+---
+slot: after-hero
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html: <script>atOptions = {'key' : 'f8749cced073d42724d37a82acdc89ae', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {}};</script><script src="https://www.highrevenueformat.com/f8749cced073d42724d37a82acdc89ae/invoke.js"></script>
+
+---
+slot: tools-grid-native
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html: <script>atOptions = {'key' : '594935ecef2cac1918eaa034677d5b18', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};</script><script src="https://www.highrevenueformat.com/594935ecef2cac1918eaa034677d5b18/invoke.js"></script>
+
+---
+slot: between-sections
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html: <script>atOptions = {'key' : 'f8749cced073d42724d37a82acdc89ae', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {}};</script><script src="https://www.highrevenueformat.com/f8749cced073d42724d37a82acdc89ae/invoke.js"></script>
+
+---
+slot: before-footer
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html: <script>atOptions = {'key' : 'f8749cced073d42724d37a82acdc89ae', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {}};</script><script src="https://www.highrevenueformat.com/f8749cced073d42724d37a82acdc89ae/invoke.js"></script>
+
+---
+slot: mobile-sticky
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: horizontal
+image_src:
+image_href:
+image_alt:
+image_width: 320
+image_height: 50
+html: <script>atOptions = {'key' : '91b42ffae7d756d879772c49c5039dee', 'format' : 'iframe', 'height' : 50, 'width' : 320, 'params' : {}};</script><script src="https://www.highrevenueformat.com/91b42ffae7d756d879772c49c5039dee/invoke.js"></script>
+
+---
+slot: tool-after-intro
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 728
+image_height: 90
+html: <script>atOptions = {'key' : 'f8749cced073d42724d37a82acdc89ae', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {}};</script><script src="https://www.highrevenueformat.com/f8749cced073d42724d37a82acdc89ae/invoke.js"></script>
+
+---
+slot: tool-sidebar
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html: <script>atOptions = {'key' : '594935ecef2cac1918eaa034677d5b18', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};</script><script src="https://www.highrevenueformat.com/594935ecef2cac1918eaa034677d5b18/invoke.js"></script>
+
+---
+slot: tools-index-inline
+enabled: yes
+type: html
+adsense_client:
+adsense_slot:
+adsense_format: auto
+image_src:
+image_href:
+image_alt:
+image_width: 300
+image_height: 250
+html: <script>atOptions = {'key' : '594935ecef2cac1918eaa034677d5b18', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {}};</script><script src="https://www.highrevenueformat.com/594935ecef2cac1918eaa034677d5b18/invoke.js"></script>

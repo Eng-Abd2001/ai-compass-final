@@ -1,0 +1,65 @@
+# خريطة المستقبل. كل كتلة = عنصر واحد. تُرتَّب تلقائيًا بالسنة.
+# status: observed (مُلاحَظ) / emerging (ناشئ) / likely (مرجّح) / speculative (تخميني) — لا تعرض التوقعات كحقائق.
+
+year: 2026
+axis_en: Models
+axis_ar: النماذج
+status: observed
+text_en: Several providers offer assistants with free tiers on phone and web.
+text_ar: عدة شركات تقدّم مساعدين بخطط مجانية على الهاتف والويب.
+---
+year: 2026
+axis_en: Coding
+axis_ar: البرمجة
+status: observed
+text_en: AI coding assistants are everyday tools for many developers.
+text_ar: مساعدو البرمجة بالذكاء الاصطناعي أدوات يومية لدى كثير من المطوّرين.
+---
+year: 2026
+axis_en: Regulation
+axis_ar: التنظيم
+status: observed
+text_en: The EU AI Act applies in phases. Check the official timeline.
+text_ar: قانون الذكاء الاصطناعي الأوروبي يُطبَّق على مراحل. راجع الجدول الرسمي.
+---
+year: 2026
+axis_en: Agents
+axis_ar: الوكلاء
+status: emerging
+text_en: Agents that use tools and finish multi-step tasks are in early use, with errors and limits.
+text_ar: وكلاء يستخدمون الأدوات وينجزون مهام متعددة الخطوات في مرحلة مبكرة، مع أخطاء وحدود.
+---
+year: 2027
+axis_en: Search
+axis_ar: البحث
+status: emerging
+text_en: AI answers appear beside or above link lists in more search products.
+text_ar: تظهر إجابات AI بجانب قوائم الروابط أو فوقها في منتجات بحث أكثر.
+---
+year: 2027
+axis_en: Education
+axis_ar: التعليم
+status: likely
+text_en: AI tutoring and AI-aware assessment become routine in more schools.
+text_ar: التدريس بـAI والتقييم الواعي به يصبحان معتادين في مدارس أكثر.
+---
+year: 2028
+axis_en: Jobs
+axis_ar: الوظائف
+status: likely
+text_en: Jobs change task by task well before whole job titles disappear.
+text_ar: تتغيّر الوظائف مهمةً بمهمة قبل أن تختفي مسمياتها بوقت طويل.
+---
+year: 2029
+axis_en: Science
+axis_ar: العلوم
+status: emerging
+text_en: AI-assisted tools speed up parts of research, with human verification.
+text_ar: أدوات بمساعدة AI تسرّع أجزاء من البحث، مع تحقق بشري.
+---
+year: 2030
+axis_en: Robotics
+axis_ar: الروبوتات
+status: speculative
+text_en: General-purpose home robots at consumer scale. Timing is highly uncertain.
+text_ar: روبوتات منزلية عامة الأغراض على نطاق المستهلكين. التوقيت غير مؤكد إطلاقًا.

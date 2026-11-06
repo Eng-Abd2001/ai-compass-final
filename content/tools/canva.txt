@@ -1,0 +1,26 @@
+# أداة: Canva
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 60
+name: Canva
+category: design
+website: https://www.canva.com/
+pricing_page:
+platforms: web, desktop, ios, android
+goals: create, money
+level: 1
+free_plan: yes
+open_source: no
+short_en: Design and social content with AI-assisted tools.
+short_ar: تصميم ومحتوى اجتماعي بأدوات مدعومة بالذكاء الاصطناعي.
+long_en: Canva is an online design platform for social posts, presentations, documents and videos, with AI-assisted tools. It has free and paid plans.
+long_ar: Canva منصة تصميم عبر الإنترنت للمنشورات الاجتماعية والعروض والمستندات والفيديو، مع أدوات مدعومة بالذكاء الاصطناعي. لها خطط مجانية ومدفوعة.
+limit_en: Free and paid feature limits apply.
+limit_ar: توجد حدود للميزات المجانية والمدفوعة.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://www.canva.com/pricing/
+paid_from: $15/mo
+plan: Free | $0 | Basic design tools and standard templates
+plan: Pro | $15/mo | Premium templates, Magic Studio AI tools

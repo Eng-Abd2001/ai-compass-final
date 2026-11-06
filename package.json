@@ -1,0 +1,25 @@
+{
+  "name": "ai-compass",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "node scripts/build-html.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/build-html.mjs",
+    "build": "next build",
+    "start": "next start",
+    "pretypecheck": "node scripts/build-html.mjs",
+    "typecheck": "tsc --noEmit",
+    "check": "node scripts/build-html.mjs"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+# أداة: NotebookLM
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 50
+name: NotebookLM
+category: study
+website: https://notebooklm.google.com/
+pricing_page:
+platforms: web, ios, android
+goals: study, learn, create
+level: 1
+free_plan: yes
+open_source: no
+short_en: Ask questions grounded in the documents you upload.
+short_ar: اسأل عن مستندات ترفعها أنت وتُجيب منها.
+long_en: NotebookLM is Google's tool for asking questions about the documents and sources you add, with answers grounded in those sources.
+long_ar: NotebookLM أداة من Google لطرح الأسئلة عن المستندات والمصادر التي تضيفها، مع إجابات مبنية على تلك المصادر.
+limit_en: Limited to your sources; not a general assistant.
+limit_ar: محدود بمصادرك؛ ليس مساعدًا عامًا.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://notebooklm.google.com/
+paid_from: Free
+plan: Free | $0 | Completely free experimental tool from Google

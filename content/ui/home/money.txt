@@ -1,0 +1,30 @@
+# مختبر ربح المال (العناوين؛ الطرق نفسها في content/money.txt)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+mT_en: AI Money Lab
+mT_ar: مختبر ربح المال بـAI
+mL_en: Realistic ways to earn with AI. No income figures are shown, because none are verified.
+mL_ar: طرق واقعية للكسب بالذكاء الاصطناعي. لا تُعرض أرقام دخل لأن أيًّا منها لم يُتحقق منه.
+mPh_en: Phone is enough
+mPh_ar: يكفي الهاتف
+mPc_en: Computer needed
+mPc_ar: يلزم حاسوب
+mSk_en: Skills
+mSk_ar: المهارات
+mMo_en: Income model
+mMo_ar: نموذج الدخل
+mCp_en: Competition
+mCp_ar: المنافسة
+mRk_en: Risk
+mRk_ar: المخاطر
+mSt_en: First step
+mSt_ar: الخطوة الأولى
+mCv.0_en: Medium
+mCv.0_ar: متوسطة
+mCv.1_en: High
+mCv.1_ar: عالية
+mDf.0_en: Beginner
+mDf.0_ar: مبتدئ
+mDf.1_en: Intermediate
+mDf.1_ar: متوسط

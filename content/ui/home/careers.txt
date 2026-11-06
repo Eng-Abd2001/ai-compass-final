@@ -1,0 +1,24 @@
+# رادار الوظائف (العناوين؛ الوظائف نفسها في content/careers.txt)
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+crT_en: AI Career Radar
+crT_ar: رادار الوظائف
+crL_en: How much of a job AI tools can assist today, and what stays human.
+crL_ar: كم من الوظيفة تستطيع أدوات AI مساعدتك فيه اليوم، وما الذي يبقى بشريًا.
+expo_en: AI exposure
+expo_ar: التعرّض للذكاء الاصطناعي
+ex.0_en: Low
+ex.0_ar: منخفض
+ex.1_en: Medium
+ex.1_ar: متوسط
+ex.2_en: High
+ex.2_ar: مرتفع
+cA_en: AI can assist
+cA_ar: ما يساعد فيه AI
+cH_en: Stays human
+cH_ar: ما يبقى بشريًا
+cG_en: Skills to grow
+cG_ar: مهارات تستحق التطوير
+cN_en: Our qualitative assessment of tasks AI tools can assist today. It is not a forecast and will change.
+cN_ar: تقييمنا النوعي للمهام التي تساعد فيها أدوات AI اليوم. ليس توقعًا وسيتغيّر.

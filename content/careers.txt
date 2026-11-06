@@ -1,0 +1,57 @@
+# رادار الوظائف. كل كتلة = وظيفة. id حروف إنجليزية صغيرة بلا مسافات.
+# exposure: low / medium / high (تقييم نوعي وليس توقعًا).
+
+id: teacher
+name_en: Teacher
+name_ar: معلّم
+exposure: medium
+assist_en: Drafting lesson plans, quizzes and practice material.
+assist_ar: تحضير الدروس والاختبارات ومواد التدريب.
+human_en: Mentoring, classroom management, noticing when a student struggles.
+human_ar: الإرشاد وإدارة الصف وملاحظة تعثّر الطالب.
+grow_en: Checking AI output; designing assessments a student can't hand to AI.
+grow_ar: مراجعة مخرجات AI وتصميم تقييمات لا يمكن تسليمها لـAI.
+---
+id: dev
+name_en: Software developer
+name_ar: مطوّر برمجيات
+exposure: high
+assist_en: Boilerplate, tests, refactoring, explaining unfamiliar code.
+assist_ar: الشيفرة المتكررة والاختبارات وإعادة الهيكلة وشرح الشيفرة الغريبة.
+human_en: Requirements, architecture trade-offs, owning production risk.
+human_ar: فهم المتطلبات وموازنات التصميم وتحمّل مخاطر الإنتاج.
+grow_en: Code review, system design, writing precise specifications.
+grow_ar: مراجعة الشيفرة وتصميم الأنظمة وكتابة مواصفات دقيقة.
+---
+id: writer
+name_en: Writer or marketer
+name_ar: كاتب أو مسوّق
+exposure: high
+assist_en: First drafts, variations, summaries, research prep.
+assist_ar: المسودات الأولى والصيغ البديلة والملخصات وتحضير البحث.
+human_en: Original angle, brand voice, fact-checking, taste.
+human_ar: الزاوية الأصلية وصوت العلامة والتحقق من الحقائق والذوق.
+grow_en: Editing, strategy, original reporting.
+grow_ar: التحرير والاستراتيجية والتقصّي الأصلي.
+---
+id: acct
+name_en: Accountant
+name_ar: محاسب
+exposure: medium
+assist_en: Categorizing entries, drafting reports, spotting anomalies.
+assist_ar: تصنيف القيود وصياغة التقارير ورصد الشذوذ.
+human_en: Judgment on edge cases, client advice, legal accountability.
+human_ar: الحكم في الحالات الحدّية ونصح العميل والمسؤولية القانونية.
+grow_en: Data analysis, advisory work, auditing AI-assisted output.
+grow_ar: تحليل البيانات والاستشارة ومراجعة العمل المدعوم بـAI.
+---
+id: nurse
+name_en: Nurse
+name_ar: ممرّض
+exposure: low
+assist_en: Documentation, scheduling, patient-education drafts.
+assist_ar: التوثيق والجدولة ومسودات تثقيف المريض.
+human_en: Hands-on care, bedside judgment, empathy.
+human_ar: الرعاية المباشرة والحكم عند سرير المريض والتعاطف.
+grow_en: Using AI documentation tools safely; privacy practice.
+grow_ar: استخدام أدوات التوثيق بأمان وممارسة الخصوصية.

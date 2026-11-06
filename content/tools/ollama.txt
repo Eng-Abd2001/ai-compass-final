@@ -1,0 +1,25 @@
+# أداة: Ollama
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 90
+name: Ollama
+category: local-models
+website: https://ollama.com/
+pricing_page:
+platforms: desktop
+goals: build, automate, learn
+level: 3
+free_plan: yes
+open_source: yes
+short_en: Runs open models on your own computer, privately.
+short_ar: يشغّل نماذج مفتوحة على جهازك بخصوصية.
+long_en: Ollama runs open large language models on your own computer, privately and offline, with a command-line tool and a local API.
+long_ar: يشغّل Ollama نماذج لغوية كبيرة مفتوحة على جهازك بخصوصية وبدون إنترنت، مع أداة سطر أوامر وواجهة API محلية.
+limit_en: Needs capable hardware and setup.
+limit_ar: يحتاج جهازًا قويًا وإعدادًا.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-14
+source: https://ollama.com/
+paid_from: Open Source
+plan: Free | $0 | 100% Free and Open Source for local execution

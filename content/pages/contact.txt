@@ -1,0 +1,20 @@
+title_en: Contact
+title_ar: التواصل
+description_en: Send corrections and questions.
+description_ar: أرسل التصحيحات والأسئلة.
+order: 20
+show_email: no
+
+---
+heading_en: Corrections and questions
+heading_ar: تصحيحات وأسئلة
+text_en: Found outdated or wrong information? Send the tool name and a link to the official source so we can verify it.
+text_ar: وجدت معلومة قديمة أو خاطئة؟ أرسل اسم الأداة ورابط المصدر الرسمي لنتحقق منها.
+
+---
+heading_en: Official Channels
+heading_ar: قنوات التواصل الرسمية
+text_en: Telegram: https://t.me/mostaodaa_Abdullah
+text_ar: قناة التليجرام: https://t.me/mostaodaa_Abdullah
+text_en: Pinterest: https://www.pinterest.com/Abdullah220011/
+text_ar: حساب بنترست: https://www.pinterest.com/Abdullah220011/

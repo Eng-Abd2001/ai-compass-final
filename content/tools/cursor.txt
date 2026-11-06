@@ -1,0 +1,32 @@
+# أداة: Cursor
+# عدّل ما بعد النقطتين فقط. شرح كل حقل في الملف _TEMPLATE.txt
+
+order: 290
+name: Cursor
+category: coding
+website: https://cursor.com/
+pricing_page: https://cursor.com/pricing
+platforms: desktop
+goals: build
+level: 2
+free_plan: yes
+open_source: no
+short_en: Code editor built around AI assistance.
+short_ar: محرر شيفرة مبني حول المساعدة بالذكاء الاصطناعي.
+long_en: Cursor is an AI code editor and agent platform for writing, reviewing and shipping software, with a desktop app, a CLI and cloud agents. Its official pricing page now sells bundled plans that share one usage pool with Grok and add X features; third-party models are billed separately at API list price.
+long_ar: Cursor محرر شيفرة ومنصة وكلاء بالذكاء الاصطناعي لكتابة البرمجيات ومراجعتها وإطلاقها، مع تطبيق سطح مكتب وواجهة أوامر ووكلاء سحابيين. صفحة الأسعار الرسمية تبيع الآن خططًا مجمّعة تشارك حصة استخدام واحدة مع Grok وتضيف ميزات X، وتُحتسب النماذج الخارجية بشكل منفصل بسعر API المعلن.
+limit_en: No phone app listed. Plans and limits change; check the pricing page.
+limit_ar: لا يوجد تطبيق هاتف مذكور. الخطط والحدود تتغيّر؛ راجع صفحة الأسعار.
+
+# ---------- التوثيق: املأ الحقول الأربعة معًا بعد التحقق من الصفحة الرسمية، أو اتركها فارغة ----------
+checked: 2026-10-06
+source: https://cursor.com/pricing
+paid_from: $8/mo (Plus; Grok models only)
+plan: Free | $0/mo | Limited agent and chat requests
+plan: Plus | $8/mo | Shared usage pool across Cursor and Grok; Grok models only
+plan: Premium | $30/mo | 4x Plus usage; cloud agents and automations; third-party models at API list price
+plan: Super | $100/mo | 15x Plus usage; priority model access at peak times
+plan: Ultra | $200/mo | 50x Plus usage; earliest access to new models
+plan: Teams | $30+/user/mo | Centralized billing, SSO, usage analytics
+plan: Enterprise | Custom | Contact sales; invoicing, SCIM, audit logs
+plan: Billing |  | Prices exclude taxes; third-party model usage is billed separately; the usage allowance refreshes weekly

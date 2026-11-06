@@ -1,0 +1,54 @@
+# اسأل AI Compass
+# كل نص له سطران: _en بالإنجليزية و _ar بالعربية. عدّل ما بعد النقطتين فقط ولا تحذف أي سطر.
+# الرمز {0} {1} ... مكان قيمة يضعها الموقع تلقائيًا (رقم أو اسم) — أبقِه في نصك.
+
+aBtn_en: Ask
+aBtn_ar: اسأل
+aT_en: Ask AI Compass
+aT_ar: اسأل AI Compass
+aL_en: Answers come from this site's data and rules, not from a chatbot.
+aL_ar: الإجابات من بيانات الموقع وقواعده، وليست من روبوت محادثة.
+aGo_en: Ask
+aGo_ar: اسأل
+aPh_en: e.g. a free tool that works on Android
+aPh_ar: مثال: أداة مجانية تعمل على أندرويد
+aEx.0_en: Free tools for Android
+aEx.0_ar: أدوات مجانية تعمل على أندرويد
+aEx.1_en: I want to build an agent without code
+aEx.1_ar: أريد بناء وكيل بدون برمجة
+aEx.2_en: I'm afraid my job will change
+aEx.2_ar: أخشى أن تتأثر وظيفتي
+aEx.3_en: I can't afford a paid assistant
+aEx.3_ar: لا أستطيع دفع ثمن مساعد مدفوع
+aTools_en: Tools that match
+aTools_ar: أدوات مطابقة
+aWhy_en: Why this answer
+aWhy_ar: سبب هذه الإجابة
+aNone_en: No verified tool in the database matches that yet. Try fewer filters.
+aNone_ar: لا توجد أداة موثّقة في القاعدة تطابق ذلك بعد. جرّب مرشّحات أقل.
+aGap_en: Not covered yet
+aGap_ar: غير مغطّى بعد
+aGapT_en: The tool database has no verified tools for video, images or PDF yet, and I won't guess. Browse the tools and filter by what you need.
+aGapT_ar: لا توجد في قاعدة الأدوات أدوات موثّقة للفيديو أو الصور أو PDF بعد، ولن أخمّن. تصفّح الأدوات وصفِّها بحسب حاجتك.
+aAg_en: Agents are covered in Academy Level 5. The database has no verified agent builders yet; automation tools are the nearest step.
+aAg_ar: الوكلاء مغطّون في المستوى 5 من الأكاديمية. لا توجد في القاعدة أدوات بناء وكلاء موثّقة بعد؛ وأدوات الأتمتة أقرب خطوة.
+aJob_en: Start with the Career Radar for your job, then Academy Level 2 to build everyday skills with AI.
+aJob_ar: ابدأ برادار الوظائف لوظيفتك، ثم المستوى 2 من الأكاديمية لبناء مهارات يومية مع AI.
+aMoney_en: Open the Money Lab. It lists realistic methods with risks, and shows no income figures because none are verified.
+aMoney_ar: افتح مختبر ربح المال. فيه طرق واقعية مع مخاطرها، ولا يعرض أرقام دخل لأن أيًّا منها لم يُتحقق منه.
+aAlt_en: Several tools list a free tier (needs verification). Compare them, and use Stack Health to see what you actually pay for.
+aAlt_ar: لعدة أدوات خطة مجانية (تحتاج تحققًا). قارن بينها، واستخدم «صحة مجموعتك» لترى ما تدفعه فعلًا.
+aNeed_en: Describe your task in Do I need AI? to see whether AI, automation or a person fits.
+aNeed_ar: صِف مهمتك في «هل أحتاج الذكاء الاصطناعي؟» لترى هل يناسبها AI أم الأتمتة أم شخص.
+aCmp_en: Pick 2–5 tools in the Comparator.
+aCmp_ar: اختر من 2 إلى 5 أدوات في المقارن.
+aDef_en: Try a goal, a device, a free or open-source tool, jobs, agents or money.
+aDef_ar: جرّب هدفًا أو جهازًا أو أداة مجانية أو مفتوحة المصدر أو الوظائف أو الوكلاء أو المال.
+aK.intent_en: Topic
+aK.intent_ar: الموضوع
+aK.caps_en: Goal
+aK.caps_ar: الهدف
+aK.fl_en: Filter
+aK.fl_ar: المرشّح
+aK.nav_en: Your Navigator answers
+aK.nav_ar: إجاباتك في المُوجِّه
